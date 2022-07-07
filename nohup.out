@@ -1,0 +1,27 @@
+[I 2022-07-07 13:14:40.093 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-07 13:14:40.240 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-07 13:14:40.252 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-07 13:14:40.252 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.6/dist-packages/jupyterlab
+[I 2022-07-07 13:14:40.252 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 2022-07-07 13:14:40.254 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-07 13:14:40.255 ServerApp] Serving notebooks from local directory: /home/notebook/githome/teaql-quick-start
+[I 2022-07-07 13:14:40.255 ServerApp] Jupyter Server 1.13.1 is running at:
+[I 2022-07-07 13:14:40.255 ServerApp] http://lenovo-server:8888/lab?token=1c5fb01b12aea33139f74c949b5a2f0432aa5b1475833c90
+[I 2022-07-07 13:14:40.255 ServerApp]  or http://127.0.0.1:8888/lab?token=1c5fb01b12aea33139f74c949b5a2f0432aa5b1475833c90
+[I 2022-07-07 13:14:40.255 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-07-07 13:14:40.257 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/notebook/.local/share/jupyter/runtime/jpserver-16244-open.html
+    Or copy and paste one of these URLs:
+        http://lenovo-server:8888/lab?token=1c5fb01b12aea33139f74c949b5a2f0432aa5b1475833c90
+     or http://127.0.0.1:8888/lab?token=1c5fb01b12aea33139f74c949b5a2f0432aa5b1475833c90
+[W 2022-07-07 13:15:14.994 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-07 13:15:41.278 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-07 13:17:42.642 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 13:20:43.406 ServerApp] Creating new directory in 
+[I 2022-07-07 13:21:44.463 ServerApp] Creating new directory in /Untitled Folder
+[I 2022-07-07 13:23:36.971 ServerApp] Creating new file in /quick-start
+[I 2022-07-07 13:23:38.652 ServerApp] Creating new file in /Untitled Folder
+[I 2022-07-07 13:25:20.220 ServerApp] Creating new file in 
+[I 2022-07-07 13:28:07.719 ServerApp] Creating new file in 
