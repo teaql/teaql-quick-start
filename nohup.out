@@ -25,3 +25,163 @@
 [I 2022-07-07 13:23:38.652 ServerApp] Creating new file in /Untitled Folder
 [I 2022-07-07 13:25:20.220 ServerApp] Creating new file in 
 [I 2022-07-07 13:28:07.719 ServerApp] Creating new file in 
+[W 2022-07-07 13:32:46.759 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-07 13:32:48.262 ServerApp] 404 GET /api/contents/quick-start/setup-environment.md?content=0&1657171966512 (192.168.50.133): No such file or directory: quick-start/setup-environment.md
+[W 2022-07-07 13:32:48.262 ServerApp] No such file or directory: quick-start/setup-environment.md
+[W 2022-07-07 13:32:48.263 ServerApp] 404 GET /api/contents/quick-start/setup-environment.md?content=0&1657171966512 (192.168.50.133) 3.21ms referer=http://192.168.50.9:8888/
+[I 2022-07-07 13:33:30.952 ServerApp] Saving file at /GUIDE.md
+[W 2022-07-07 13:34:07.096 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-07 13:39:30.973 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:41:30.991 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:43:31.016 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:45:31.037 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:47:31.057 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:49:31.077 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:51:10.824 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 13:51:31.097 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:57:33.351 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 13:59:33.379 ServerApp] Saving file at /GUIDE.md
+[I 2022-07-07 14:14:27.470 ServerApp] Creating new file in /quick-start
+[I 2022-07-07 14:14:43.334 ServerApp] Creating new file in /quick-start
+[W 2022-07-07 14:15:08.068 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-07 14:16:08.885 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-07 14:18:10.712 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:18:14.444 ServerApp] Saving file at /quick-start/setup-homebrew-step1.png
+[I 2022-07-07 14:18:17.027 ServerApp] Saving file at /quick-start/setup-homebrew-step2.png
+[I 2022-07-07 14:18:19.137 ServerApp] Saving file at /quick-start/setup-homebrew-step4.png
+[I 2022-07-07 14:18:21.257 ServerApp] Saving file at /quick-start/setup-homebrew-step5.png
+[I 2022-07-07 14:20:09.553 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:20:25.798 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:20:31.710 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:22:09.573 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:22:31.746 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:24:09.593 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:24:31.778 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:26:09.667 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:26:31.805 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:28:09.686 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:28:31.837 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:28:41.792 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:29:54.782 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:30:09.706 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:30:41.820 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:31:00.635 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:31:09.421 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:32:09.722 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:33:40.204 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:34:09.743 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:35:52.175 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:36:09.975 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:37:52.204 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:38:09.995 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:39:06.589 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:39:35.553 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:40:22.720 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:40:35.554 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:42:10.016 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:42:38.355 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:44:17.610 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:44:22.753 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:44:43.840 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:46:10.234 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:47:17.233 ServerApp] Saving file at /quick-start/setup-daas-mia.md
+[I 2022-07-07 14:47:35.663 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-07 14:48:10.257 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 14:50:10.277 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 15:50:20.779 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 15:52:20.801 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 15:54:20.820 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:00:20.835 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:02:20.864 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:04:20.881 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:06:20.897 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:08:20.909 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:10:20.920 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:12:20.935 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:14:20.948 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:16:20.957 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:18:20.972 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:20:20.989 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:22:21.004 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:24:21.020 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:26:21.037 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:28:21.054 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:30:21.071 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:32:21.085 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:34:21.101 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:36:21.121 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:38:21.139 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:40:21.156 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 16:42:21.173 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 18:14:20.468 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 18:16:20.498 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 18:18:20.520 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 18:44:45.796 ServerApp] Creating new file in /quick-start
+[W 2022-07-07 18:49:02.345 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-07 18:49:16.618 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-07 18:56:20.547 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 18:58:20.574 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 18:58:45.827 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:00:20.593 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 19:00:45.845 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:02:45.864 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:04:20.603 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 19:06:20.628 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 19:08:20.662 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 19:10:20.698 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-07 19:10:45.892 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:12:45.918 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:14:45.937 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:16:45.959 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:18:45.982 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:20:46.002 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:22:46.020 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 19:34:46.462 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:19:31.564 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:21:31.587 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:23:31.606 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:27:31.631 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:29:31.655 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:31:31.676 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-07 20:33:31.697 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[W 2022-07-08 07:56:47.528 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-08 07:58:48.115 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 08:12:48.128 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:14:48.147 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:16:48.170 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:18:48.190 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:20:48.215 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:22:48.235 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:24:48.260 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:28:48.282 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:30:48.303 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:32:48.323 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:34:48.346 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:36:48.372 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:38:48.396 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:40:48.414 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 08:50:51.254 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[W 2022-07-08 10:43:34.212 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-08 10:43:44.111 ServerApp] Creating new file in 
+[W 2022-07-08 10:44:00.792 ServerApp] delete /untitled.md
+[I 2022-07-08 10:44:07.253 ServerApp] Uploading file to /markdown-cheat-sheet.md
+[I 2022-07-08 10:45:43.265 ServerApp] Saving file at /markdown-cheat-sheet.md
+[I 2022-07-08 10:45:56.102 ServerApp] Saving file at /markdown-cheat-sheet.md
+[I 2022-07-08 10:46:00.411 ServerApp] Saving file at /markdown-cheat-sheet.md
+[I 2022-07-08 10:46:01.093 ServerApp] Saving file at /markdown-cheat-sheet.md
+[I 2022-07-08 10:46:02.482 ServerApp] Saving file at /markdown-cheat-sheet.md
+[I 2022-07-08 10:46:03.124 ServerApp] Saving file at /markdown-cheat-sheet.md
+[I 2022-07-08 10:46:19.884 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 10:46:38.365 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
+[I 2022-07-08 10:51:35.636 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[W 2022-07-08 10:51:40.732 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-08 10:52:01.301 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2022-07-08 10:53:36.259 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 10:55:37.251 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 10:57:00.610 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-08 10:58:07.533 ServerApp] Saving file at /quick-start/setup-homebrew.md
+[I 2022-07-08 10:59:38.237 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 11:01:39.230 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 11:03:40.223 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 11:05:40.242 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 11:07:40.262 ServerApp] Saving file at /quick-start/setup-daas-emily.md
