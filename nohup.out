@@ -439,3 +439,5 @@
 [I 2022-07-08 15:04:24.280 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
 [W 2022-07-08 15:05:37.074 ServerApp] Forbidden
 [W 2022-07-08 15:05:37.075 ServerApp] 403 GET /api/sessions?1657263239799 (192.168.50.250) 2.19ms referer=http://iot.doublechaintech.com:5908/lab/tree/quick-start/setup-idea.md
+[W 2022-07-08 15:07:07.901 ServerApp] Forbidden
+[W 2022-07-08 15:07:07.902 ServerApp] 403 GET /api/contents/quick-start/setup-homebrew-emily.md?content=0&1657263710983 (192.168.50.250) 2.27ms referer=http://iot.doublechaintech.com:5908/lab/tree/quick-start/setup-homebrew-emily.md
