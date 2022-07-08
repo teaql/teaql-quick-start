@@ -25,7 +25,8 @@ Let's solve it by this way:input `brew install java` in Terminal, and wait for a
 
 7. input `java` to check if it has completed the installation. Of course, you can omit this step. 
 if it's right, it will show like this
- ![](
+
+![](./images/result.png)
 
 8. if you encounter the problem in 5, input `bash update-code-from-model.sh` again after you complete the installation. 
 
