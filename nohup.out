@@ -452,3 +452,5 @@
 [I 2022-07-08 15:10:54.900 ServerApp] Saving file at /quick-start/data.csv
 [I 2022-07-08 15:11:07.305 ServerApp] Saving file at /quick-start/data.csv
 [I 2022-07-08 15:11:39.528 ServerApp] Saving file at /quick-start/data.csv
+[W 2022-07-08 15:14:57.614 ServerApp] Forbidden
+[W 2022-07-08 15:14:57.615 ServerApp] 403 GET /api/contents/quick-start/images/setup-homebrew-step5.png?type=file&content=1&format=base64&1657264371891 (192.168.50.250) 2.34ms referer=None
