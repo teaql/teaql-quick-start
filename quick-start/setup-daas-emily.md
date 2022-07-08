@@ -24,6 +24,7 @@ in this step,you may meet this problem:your computer pops a message that says JD
 Let's solve it by this way:input `brew install java` in Terminal, and wait for a while to install. when it finished, input` echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH" >>  /Users/emily/.bash_profile`. Don't worry Terminal will give you this hint. 
 
 7. input `java` to check if it has completed the installation. Of course, you can omit this step. 
+if
 
 8. if you encounter the problem in 5, input `bash update-code-from-model.sh` again after you complete the installation. 
 
