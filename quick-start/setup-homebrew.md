@@ -11,7 +11,7 @@ Hello, dear users. Welcome to read our setup guidance. Follow these steps and su
 1. Open a software that supports to enter command lines.
  
 2. Input the command line:
-
+！ 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 
