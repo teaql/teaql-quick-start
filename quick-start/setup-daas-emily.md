@@ -14,7 +14,7 @@
 4. input ls to look over the directory. then,we try to open one. 
 5. input bash update-code-from-model.sh’.
 in this step,you may meet this problem:your computer pops a message that says JDK haven't been installed.
-[![problem image:](/assets/images/WechatIMG57.jpeg)
+[![problem image:](WechatIMG57.jpeg)
 
 Let's solve it by this way:input `brew install java` in Terminal, and wait for a while to install. when it finished, input` echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH" >>  /Users/emily/.bash_profile`. Don't worry Terminal will give you this hint. 
 7. input `java` to check if it has completed the installation. Of course, you can omit this step
