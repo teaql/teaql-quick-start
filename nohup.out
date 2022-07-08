@@ -445,3 +445,8 @@
 [W 2022-07-08 15:07:24.790 ServerApp] 403 GET /api/kernels?1657263730662 (192.168.50.250) 2.16ms referer=http://iot.doublechaintech.com:5908/lab/tree/quick-start/setup-homebrew-emily.md
 [W 2022-07-08 15:07:47.514 ServerApp] Forbidden
 [W 2022-07-08 15:07:47.514 ServerApp] 403 GET /api/contents/quick-start/setup-idea.md?type=file&content=1&format=text&1657263239779 (192.168.50.250) 2.23ms referer=http://iot.doublechaintech.com:5908/lab/tree/quick-start/setup-homebrew-resolv-git-config-issue.md
+[I 2022-07-08 15:10:06.419 ServerApp] Creating new file in /quick-start
+[I 2022-07-08 15:10:33.195 ServerApp] Saving file at /quick-start/data.csv
+[W 2022-07-08 15:10:34.034 ServerApp] Forbidden
+[W 2022-07-08 15:10:34.035 ServerApp] 403 GET /api/contents/quick-start/setup-idea.md/checkpoints?1657263239927 (192.168.50.250) 2.23ms referer=http://iot.doublechaintech.com:5908/lab/tree/quick-start/setup-idea.md
+[I 2022-07-08 15:10:54.900 ServerApp] Saving file at /quick-start/data.csv
