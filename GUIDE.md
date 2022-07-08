@@ -4,4 +4,4 @@ Hello, Dear user, Please follw the installation steps as described. There are al
 
 **installation and problems**
 1. open Terminal
-2
+2. 
