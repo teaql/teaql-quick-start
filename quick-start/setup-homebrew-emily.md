@@ -14,3 +14,5 @@
 4. input`brew install mysql`, then input` brew services restart mysql`and nextly input`mysql -uroot` to check. 
 
 
+
+

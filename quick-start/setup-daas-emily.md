@@ -19,7 +19,7 @@
 
 in this step,you may meet this problem:your computer pops a message that says JDK haven't been installed.
 
-![](/quick-start/images/setup-daas-problem1.png)
+![](./images/setup-daas-problem1.png)
 
 Let's solve it by this way:input `brew install java` in Terminal, and wait for a while to install. when it finished, input` echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH" >>  /Users/emily/.bash_profile`. Don't worry Terminal will give you this hint. 
 

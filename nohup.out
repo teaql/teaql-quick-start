@@ -435,3 +435,5 @@
 [I 2022-07-08 15:01:53.322 ServerApp] Saving file at /quick-start/setup-daas-emily.md
 [W 2022-07-08 15:01:54.514 ServerApp] delete /quick-start/images/setup-daas-problem1.png
 [I 2022-07-08 15:02:08.391 ServerApp] Uploading file to /quick-start/images/setup-daas-problem1.png
+[I 2022-07-08 15:03:54.529 ServerApp] Saving file at /quick-start/setup-daas-emily.md
+[I 2022-07-08 15:04:24.280 ServerApp] Saving file at /quick-start/setup-homebrew-emily.md
