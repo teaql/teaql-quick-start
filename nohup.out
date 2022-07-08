@@ -460,3 +460,5 @@
 [W 2022-07-08 15:17:01.246 ServerApp] 403 GET /api/contents/quick-start/images/setup-daas-problem1.png?type=file&content=1&format=base64&1657264378943 (192.168.50.250) 2.22ms referer=None
 [W 2022-07-08 15:17:01.390 ServerApp] Forbidden
 [W 2022-07-08 15:17:01.390 ServerApp] 403 GET /api/contents/quick-start/images/setup-daas-problem1.png?type=file&content=1&format=base64&1657264378943 (192.168.50.250) 1.84ms referer=None
+[W 2022-07-08 15:18:34.855 LabApp] Forbidden
+[W 2022-07-08 15:18:34.856 LabApp] 403 GET /lab/api/workspaces/default?1657264257216 (192.168.50.250) 2.17ms referer=http://iot.doublechaintech.com:5908/lab/tree/quick-start/data.csv
