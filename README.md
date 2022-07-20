@@ -7,3 +7,6 @@ Quick Start for TeaQL
 * Leave a space after '.'(if not for a decimal number) and ','
 * Naming the image or videos with english words splitte by '-'
 
+
+
+
