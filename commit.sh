@@ -1,7 +1,7 @@
 alias git='env https_proxy=http://192.168.1.250:1087 git'
 echo "git pull"
 
-env https_proxy=http://192.168.50.1:1087 git pull
+env https_proxy=http://192.168.1.250:1087 git pull
 git add -A .
 
 echo "git pull"
