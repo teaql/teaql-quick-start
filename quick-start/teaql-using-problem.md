@@ -36,4 +36,4 @@ input `allowPublicKeyRetrieval TRUE` in your Terminal.
 
 ## ACCIDENTALLY CHANGED THE SOURCE CODE ##
 
-When you use Intelli
+When you use IntelliJ IDEA, it will give you hints. Errors in writing are displayed with a cur
