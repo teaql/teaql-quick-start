@@ -13,6 +13,10 @@ Return to the Website, update the page, and you will find you can visit it suces
 
 
 
+
+
+
+
 ## CANNOT OPEN WEB PAGE ##
 
 This error‘s image is as followed.  
@@ -23,4 +27,11 @@ This error‘s image is as followed.
 
 **solution**
 
-input `allowPublicKeyRetrieval TRUE` in your Terminal.（I have forg） 
+input `allowPublicKeyRetrieval TRUE` in your Terminal.  
+（I have forgotten that it is in which folder. ） 
+
+
+
+
+
+
