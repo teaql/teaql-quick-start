@@ -1,4 +1,4 @@
 - 1980.ABC  
     - hello
     - fine
-    ![Tux, 
+    ![Tux](images/result.png)
