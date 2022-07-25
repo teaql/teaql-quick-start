@@ -40,6 +40,7 @@ When you use IntelliJ IDEA, it will give you hints. Errors in writing are displa
 cursor. You can put your mouse cursor on red part, then it will show the method to solve it.  
 Just click it, the problems will be solevd.  
 But,sometimes there will be something wrong with it.   
-For example, you just have oe
+For example, you just have one formatting error,the IntelliJ IDEA maybe provide you a solution  
+that will contribute to the source code changing. 
 
 
