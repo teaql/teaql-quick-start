@@ -8,7 +8,7 @@ the format of model is as follow.
 
 Once you've written the model, press Command+S for saving it.  
 
-Then,input `cd ..` to exit fodernextly, input bash update`bash update-code-from-model.sh ` in folder and wait for a while. 
+Then,input `cd ..` to exit folder *bizcore*. Nextly, input bash update`bash update-code-from-model.sh ` in folder and wait for a while. 
 
 If you succeed, the Terminal will show you this  
 ![](images/sucess.png)
@@ -20,7 +20,8 @@ If you succeed, the Terminal will show you this
 ## QUERRY WEB RESPONSE ##
 
 Write fuctions by IntelliJ IDEA.  
-eg.![](images/fuction-exanmple.png)  
+eg.
+![](images/function-example.png)  
 Put `gradle classes`
 
 
