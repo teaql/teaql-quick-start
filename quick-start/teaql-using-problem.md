@@ -56,3 +56,8 @@ Before you click ok, make sure to see what advice it gives.
 
 
 
+## RESTART COMPUTER ##
+
+Enter the Terminal, Input `mysql.server start`.  
+
+Input ``
