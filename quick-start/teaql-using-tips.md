@@ -20,7 +20,7 @@ If you succeed, the Terminal will show you this
 ## QUERRY WEB RESPONSE ##
 
 Write fuctions by IntelliJ IDEA.  
-eg.![](images/)
+eg.![](images/fuction-exanmple)
 
 Enter http://localhost:8080/model/ +name that you chose
 
