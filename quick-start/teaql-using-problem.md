@@ -7,7 +7,7 @@ The error image is shown below.
 
 
 **solution**  
-You can press Cntrol+C 
+You can press Cntrol+C in your 
 
     
     
