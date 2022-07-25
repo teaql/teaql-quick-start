@@ -15,7 +15,7 @@ Return to the Website, update the page, and you will find you can visit it suces
 
 ## CANNOT OPEN WEB PAGE ##
 
-You can 
+This error‘s image is as followed. 
 
     
     
