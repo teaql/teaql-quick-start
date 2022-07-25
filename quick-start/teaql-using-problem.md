@@ -60,4 +60,4 @@ Before you click ok, make sure to see what advice it gives.
 
 Enter the Terminal, Input `mysql.server start`.  
 
-Input ``
+Input `cd githome`
