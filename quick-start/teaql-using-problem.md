@@ -7,7 +7,10 @@ The error image is shown below.
 
 
 **solution**  
-You can press Cntrol+C in your 
+Press Cntrol+C in your Terminal, then input `bin/httpd.sh`  
+
+Return to the Website, update 
+
 
     
     
