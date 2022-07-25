@@ -23,4 +23,4 @@ This error‘s image is as followed.
 
 **solution**
 
-input `allowPublicKeyRetrieval TRUE` in your Terminal. 
+input `allowPublicKeyRetrieval TRUE` in your Terminal.（I have forg） 
