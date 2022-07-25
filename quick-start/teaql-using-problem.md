@@ -43,6 +43,7 @@ Just click it, the problems will be solevd.
 But,sometimes there will be something wrong with it.   
 
 For example, you just have one formatting error,the IntelliJ IDEA maybe provide you a solution  
+
 that will contribute to the source code changing. 
 
 
@@ -50,4 +51,4 @@ that will contribute to the source code changing.
 **solution**
 Don't take IntelliJ Idea's advice with a grain of salt. 
 
-Before you click ok, 
+Before you click ok, make sure to see what advice it gives. 
