@@ -8,7 +8,7 @@ the format of model is as follow.
 
 Once you've written the model, press Command+S for saving it.  
 
-nextly, input bash update`bash update-code-from-model.sh `and wait for a while. 
+nextly, input bash update`bash update-code-from-model.sh ` in foldeand wait for a while. 
 
 If you succeed, the Terminal will show you this  
 ![](images/sucess.png)
@@ -20,7 +20,9 @@ If you succeed, the Terminal will show you this
 ## QUERRY WEB RESPONSE ##
 
 Write fuctions by IntelliJ IDEA.  
-eg.![](images/fuction-exanmple.png)
+eg.![](images/fuction-exanmple.png)  
+Put `gradle classes`
+
 
 Enter http://localhost:8080/model/ with name that you chose+`/`.  
 
