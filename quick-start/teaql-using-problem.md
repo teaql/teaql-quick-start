@@ -38,6 +38,8 @@ input `allowPublicKeyRetrieval TRUE` in your Terminal.
 
 When you use IntelliJ IDEA, it will give you hints. Errors in writing are displayed with a   
 cursor. You can put your mouse cursor on red part, then it will show the method to solve it.  
-Just click it, the problems will be sol
+Just click it, the problems will be solevd.  
+But,sometimes there will be something wrong with it.   
+For example, you just have oe
 
 
