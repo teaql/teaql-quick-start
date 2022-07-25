@@ -20,8 +20,9 @@ If you succeed, the Terminal will show you this
 ## QUERRY WEB RESPONSE ##
 
 Write fuctions by IntelliJ IDEA.  
+eg.![](images/)
 
-Enter http://localhost:8080/model/ to che
+Enter http://localhost:8080/model/ +name that you chose
 
 
 
