@@ -36,11 +36,16 @@ input `allowPublicKeyRetrieval TRUE` in your Terminal.
 
 ## ACCIDENTALLY CHANGED THE SOURCE CODE ##
 
-When you use IntelliJ IDEA, it will give you hints. Errors in writing are displayed with a   
-cursor. You can put your mouse cursor on red part, then it will show the method to solve it.  
+When you use IntelliJ IDEA, it will give you hints. Errors in writing are displayed with a cursor. You can put your mouse cursor on red part, then it will show the method to solve it.  
+
 Just click it, the problems will be solevd.  
+
 But,sometimes there will be something wrong with it.   
+
 For example, you just have one formatting error,the IntelliJ IDEA maybe provide you a solution  
 that will contribute to the source code changing. 
 
 
+
+**solution**
+Don't take Intelli
