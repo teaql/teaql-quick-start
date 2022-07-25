@@ -19,7 +19,10 @@ If you succeed, the Terminal will show you this
 
 ## QUERRY WEB RESPONSE ##
 
-writing fuctions 
+Write fuctions by IntelliJ IDEA.  
+
+input 
+
 
 
 
