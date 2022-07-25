@@ -28,6 +28,7 @@ Input `gradle classes`.
 
 Enter http://localhost:8080/model/ with name that you chose+`/`.  
 
+And you can see what you want. 
 
 
 
