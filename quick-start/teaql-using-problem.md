@@ -1,10 +1,3 @@
-- 1980.ABC  
-    - hello
-    - fine
-    ![](images/result.png)  
+COM
     
     
-    ____
-    
-   <1938835782@qq.com>  
-   [code]('')
