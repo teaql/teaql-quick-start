@@ -21,7 +21,7 @@ If you succeed, the Terminal will show you this
 
 Write fuctions by IntelliJ IDEA.  
 
-input 
+Enter http://localhost:8080/model/ to che
 
 
 
