@@ -48,4 +48,5 @@ that will contribute to the source code changing.
 
 
 **solution**
-Don't take Intelli
+Don't take IntelliJ Idea's advice with a grain of salt. 
+
