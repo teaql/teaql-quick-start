@@ -23,4 +23,4 @@ This error‘s image is as followed.
 
 **solution**
 
-
+`allowPublicKeyRetrieval TRUE`
