@@ -17,15 +17,17 @@ If you succeed, the Terminal will show you this
 
 
 
+
 ## QUERRY WEB RESPONSE ##
 
 Write fuctions by IntelliJ IDEA.  
 eg.
 ![](images/function-example.png)  
-Put `gradle classes`
+Input `gradle classes`. 
 
 
 Enter http://localhost:8080/model/ with name that you chose+`/`.  
+
 
 
 
