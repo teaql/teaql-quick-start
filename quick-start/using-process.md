@@ -45,7 +45,11 @@ Then select **model.xml**, and enter it.  then you can write your model casually
 
 Open IntelliJ IDEA
 the operation is like **create a system model**.  
-When you enter the folder **bizcore**, select
+When you enter the folder **bizcore**, select these by oder. 
+
++ 
++ 
++ 
 
 
 
