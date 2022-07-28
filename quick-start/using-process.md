@@ -1,12 +1,15 @@
 
+# What apps you need to download first # 
+
++ Visual Studio Code(=VScode)  
++ IntelliJ IDEA
++ Pstman
+
+
+
 # USING PROCESS #
 
 Dear users, our product only supprts Mac. 
-
-What apps you need to download first.  
-+ Visual Studio Code  
-+ IntelliJ IDEA
-+ Pstman
 
 1. open you computer 
 
@@ -21,7 +24,7 @@ What apps you need to download first.
 
 
 
-4. 
+4. open your VScode, 
 
     `
 
