@@ -72,4 +72,6 @@ Open **Terminal** in your IntelliJ IDEA.
 1. input `bash update-code-from-model.sh`
 2. input `gradle calsses`
 
-wait for a w
+wait for a while patiently.  If you succeed, you will see this. 
+
+![](images/)
