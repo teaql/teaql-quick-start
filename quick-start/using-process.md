@@ -24,7 +24,7 @@ Dear users, our product only supprts Mac.
 
 
 
-4. open your VScode, click Terminal and input these codes.  
+4. open your VScode or IntelliJ IDEA, click Terminal and input these codes.  
 
 input `mkdir githome` to create a new folder
 input `cd githome/`
