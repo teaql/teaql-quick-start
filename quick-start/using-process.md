@@ -36,18 +36,14 @@ move your cursor to the top, then click **File**, select them by oder.
 
 + **bizcore**
 
-
-
-
 Then select **model.xml**, and enter it.  then you can write your model casually. 
-
 
 
 
 
 #### WRITE FUNCTION ####
 
-
+O
 
 
 #### RUN ####
