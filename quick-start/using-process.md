@@ -25,7 +25,11 @@ Dear users, our product only supprts Mac.
 
 
 #### CREATE A SYSTEM MODEL #####
-Open VScode, move your cursor to the top, then click **File**, select **githome**,next **sample
+
+Open VScode.  
+move your cursor to the top, then click **File**, select them by oder.   + **githome**  
+
++ **sample-daas-project**, 
 
 #### WRITE FUNCTION ####
 
