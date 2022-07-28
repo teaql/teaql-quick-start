@@ -27,20 +27,26 @@ Dear users, our product only supprts Mac.
 4. open your VScode, click Terminal and input these codes.  
 
 input `mkdir githome` to create a new folder
-
-    git clone 
-   git clone https://github.com/doublechaintech/daas-start-kit.git
+input `cd githome/`
+     git clone https://github.com/doublechaintech/daas-start-kit.git
+  git clone https://github.com/teaql/sample-daas-project.git
+   cd sample-daas-project
+   
+   
+   
    cd daa-start-kit/
   daas-start-kit
     ls
     cd daas-start-kit/
- 
-  
- 
-    
+   cd ..
+    pwd
+  history
+   git home
+    pwd
      cd githome
     git clone https://github.com/doublechaintech/daas-start-kit.git
- 
+  git clone https://github.com/teaql/sample-daas-project.git
+   cd sample-daas-project
    ls
   pwd
 
