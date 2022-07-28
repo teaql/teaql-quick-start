@@ -24,7 +24,7 @@ Dear users, our product only supprts Mac.
 
 
 
-4. open your VScode, 
+4. open your VScode, click Terminal 
 
     `
 
