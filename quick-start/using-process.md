@@ -4,7 +4,9 @@
 Dear users, our product only supprts Mac. 
 
 What apps you need to download first.  
-Visual Studio Code
++ Visual Studio Code  
++ IntelliJ IDEA
++ Pstman
 
 1. open you computer 
 
