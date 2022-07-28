@@ -61,8 +61,8 @@ Before you click ok, make sure to see what advice it gives.
 Enter the Terminal,Input these code one by one.   
 
 `cd resin-3.1.16`
-`476  bin/httpd.sh `
-`477  mysql.server restart`
+`bin/httpd.sh`
+`mysql.server restart`
 
 
 
