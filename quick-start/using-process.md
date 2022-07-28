@@ -74,4 +74,7 @@ Open **Terminal** in your IntelliJ IDEA.
 
 wait for a while patiently.  If you succeed, you will see this. 
 
-![](images/gradle-
+![](images/build.png)
+
+
+then you can visit  
