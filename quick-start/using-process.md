@@ -74,4 +74,4 @@ Open **Terminal** in your IntelliJ IDEA.
 
 wait for a while patiently.  If you succeed, you will see this. 
 
-![](./images/gradle-classes-sucess.png)
+![](images/gradle-
