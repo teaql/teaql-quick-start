@@ -43,7 +43,8 @@ Then select **model.xml**, and enter it.  then you can write your model casually
 
 #### WRITE FUNCTION ####
 
-O
+Open IntelliJ IDEA
+the operation is like **create a 
 
 
 #### RUN ####
