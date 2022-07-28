@@ -24,7 +24,8 @@ Dear users, our product only supprts Mac.
 
 
 
-4. open your VScode, click Terminal 
+4. open your VScode, click Terminal and input these codes.  
+
 
  mkdir githome
   235  cd githome/
