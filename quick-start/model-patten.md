@@ -14,3 +14,7 @@ Write them down according to the inclusion relationship, but after each object i
 For example, the family belongs to the community. At the end of the family list, add `community="community()`. and so on
 
 
+Another note is that every time you create an object, you need to add `<` and `/>` before and after the list respectively.
+
+
+You can use the tab key or space bar during the process to ensure alignment. 
