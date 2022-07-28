@@ -69,4 +69,5 @@ Then, you can try to Write the function.
 
 Open **Terminal** in your IntelliJ IDEA. 
 
-input `bash
+input `bin/httpd.sh`
+cd 
