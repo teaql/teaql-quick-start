@@ -4,7 +4,7 @@
 Dear users, our product only supprts Mac. 
 
 What apps you need to download first.  
-VScode
+Visual Studio Code
 
 1. open you computer 
 
@@ -19,7 +19,7 @@ VScode
 
 
 
-4. visual studio code
+4. 
 
     `
 
