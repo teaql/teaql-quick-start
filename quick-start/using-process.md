@@ -70,4 +70,6 @@ Then, you can try to Write the function.
 Open **Terminal** in your IntelliJ IDEA. 
 
 1. input `bash update-code-from-model.sh`
-2. input `
+2. input `gradle calsses`
+
+wait for a w
