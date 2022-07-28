@@ -27,9 +27,14 @@ Dear users, our product only supprts Mac.
 #### CREATE A SYSTEM MODEL #####
 
 Open VScode.  
-move your cursor to the top, then click **File**, select them by oder.   + **githome**  
+move your cursor to the top, then click **File**, select them by oder.  
++ **githome**  
 
-+ **sample-daas-project**, 
++ **sample-daas-project**
+
++ **bizcore**
+
+Then select **model.xml**, and 
 
 #### WRITE FUNCTION ####
 
