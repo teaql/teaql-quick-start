@@ -77,4 +77,5 @@ wait for a while patiently.  If you succeed, you will see this.
 ![](images/build.png)
 
 
-then you can visit  
+then you can visit http://localhost:8080/model/communityManager/helloMia001Family/  
++any name you have named to check information that you want to see. 
