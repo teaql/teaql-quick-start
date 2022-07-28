@@ -15,7 +15,7 @@ Dear users, our product only supprts Mac.
 1. open you computer 
 
 2. enter your Terminal. If you don't know how to enter Terminal, You can press  
-the **Commond + space key**, then input **Terminal**, and click this solftware.   
+the **Command + space key**, then input **Terminal**, and click this solftware.   
 
 3. input these codes by order.  
 
@@ -36,7 +36,9 @@ move your cursor to the top, then click **File**, select them by oder.
 
 + **bizcore**
 
-Then select **model.xml**, and enter it.  then you can write your model casually. 
+Then select **model.xml**, and enter it.  then you can write your model casually.  
+when you complete your model, press **Command+S key** to save it. 
+
 
 
 
@@ -67,4 +69,4 @@ Then, you can try to Write the function.
 
 Open **Terminal** in your IntelliJ IDEA. 
 
-input 
+input `bash
