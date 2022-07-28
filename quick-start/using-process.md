@@ -69,5 +69,5 @@ Then, you can try to Write the function.
 
 Open **Terminal** in your IntelliJ IDEA. 
 
-input `bin/httpd.sh`
-cd 
+1. input `bash update-code-from-model.sh`
+2. input `
