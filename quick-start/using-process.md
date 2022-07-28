@@ -25,8 +25,7 @@ Dear users, our product only supprts Mac.
 
 
 #### CREATE A SYSTEM MODEL #####
-Open VScode, press 
-
+Open VScode, move your cursor to the top, then click **File**, select **githome**,next **sample
 
 #### WRITE FUNCTION ####
 
