@@ -6,6 +6,7 @@
 + Pstman
 
 
+___
 
 # USING PROCESS #
 
@@ -22,7 +23,7 @@ Dear users, our product only supprts Mac.
 `bin/httpd.sh `
 
 
-
+___
 
 #### CREATE A SYSTEM MODEL #####
 
@@ -34,7 +35,13 @@ move your cursor to the top, then click **File**, select them by oder.
 
 + **bizcore**
 
-Then select **model.xml**, and 
+
+
+
+Then select **model.xml**, and enter it.  then you cnan
+
+
+
 
 #### WRITE FUNCTION ####
 
