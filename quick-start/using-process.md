@@ -25,7 +25,7 @@ Dear users, our product only supprts Mac.
 
 
 #### CREATE A SYSTEM MODEL #####
-
+Open VScode, press 
 
 
 #### WRITE FUNCTION ####
