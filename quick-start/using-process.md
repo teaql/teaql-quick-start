@@ -58,6 +58,13 @@ When you enter the folder **bizcore**, select these by oder.
 + CommunityCustomManagerlmpl.java
 
 
-Then
+Then, you can try to Write the function. 
+
+
+
 
 #### RUN ####
+
+Open **Terminal** in your IntelliJ IDEA. 
+
+input 
