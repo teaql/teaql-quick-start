@@ -65,3 +65,14 @@ Enter the Terminal,Input these code one by one.
 `477  mysql.server restart`
 
 
+
+
+
+
+
+
+
+
+
+
+ brew install java
