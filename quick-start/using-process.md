@@ -50,18 +50,14 @@ When you enter the folder **bizcore**, select these by oder.
 + githome
 + sample-daas-project
 + bizcore
-+  cd model_core_src 
-    cd com
- 
-   cd doublechaintech
-  510  ls
-  511  cd model
-  512  ls
-  513  cd Community
-  514  ls
-  515  cd CommunityCustomManagerlmpl.java
++ model_core_src 
++ com
++ doublechaintech
++ model
++ Community
++ CommunityCustomManagerlmpl.java
 
 
-
+Then
 
 #### RUN ####
