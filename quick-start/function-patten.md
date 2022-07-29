@@ -151,8 +151,10 @@ Details are as follows
     ![](images/FP-10.png)
 
 
-3. Still in your IntelliJ IDEA, write a new function. And pres
+3. Still in your IntelliJ IDEA, write a new function. Remember to press **Command+S** to save it.  
     ![](images/FP-11.png)
+    
+
     
     
     
