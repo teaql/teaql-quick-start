@@ -7,4 +7,9 @@ it's a piece of a cake for you.
 But if not, just follow the regulation below. 
 
 
-1. 
+1. Think about what information you want to see.  
+
+for e
+
+
+2. 
