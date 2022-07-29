@@ -147,6 +147,7 @@ Details are as follows
     /Users/yourname/githome/sample-daas-project/bizcore/WEB-INF/model_custom_src/com/doublechaintech/model/community/  
     Next, create a new calsses like this. 
     ![](images/FP-8.png)
-    Then, write 
+    Then, write function in the new class as the picture below. 
+    !
 
 
