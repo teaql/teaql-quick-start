@@ -30,9 +30,11 @@ But if not, just follow the regulation below.
       
 2. *necessary format*  
     
-    + Starts with public Webresponse and ends with return
-    + Mark each sentence with a semicolon
-    + SmartList《Family》
+    + Starts with `public Webresponse` and ends with `return`. 
+    + Mark each sentence with a semicolon. 
+    + As for `SmartList<Family>`, when you write down the variable of familyList, IntelliJ IDEA will prompt you and fill it in automatically for you.  
+    
+    
 
     
     
