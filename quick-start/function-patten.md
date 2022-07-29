@@ -29,8 +29,7 @@ But if not, just follow the regulation below.
     words, the first letter of the first word is lowercase,  
     and the first letter of the following words is uppercase.  
     
-    eg. 
-    
-    
+    eg. `helloMia` and `familyList` in the picture above followed the CamelCase.  
+      
 2.
     
