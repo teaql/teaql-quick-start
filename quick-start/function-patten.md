@@ -139,6 +139,8 @@ Presume a scene, New year is coming, so each kid in this community will grow one
 in order to complete this **Transaction**, there is need to create a new calss.  
 Details are as follows
 
-1. Open your IntelliJ IDEA,and create a new class. 
+1. Open your IntelliJ IDEA,and create a new class. The path is as follows.  
+
+    U
 
 
