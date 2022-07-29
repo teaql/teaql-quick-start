@@ -68,6 +68,8 @@ Here are the steps.
 
 2. write a function for registering a family in IntelliJ IDEA. 
     
-    the 
+   The format is like this.
+   ![](images/)
+   
 
 
