@@ -25,5 +25,12 @@ But if not, just follow the regulation below.
     
 1. *CamelCase*
 
+    When you name a variable, if there are more than two  
+    words, the first letter of the first word is lowercase,  
+    and the first letter of the following words is uppercase.  
     
+    eg. 
+    
+    
+2.
     
