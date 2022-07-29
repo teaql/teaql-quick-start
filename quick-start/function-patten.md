@@ -36,7 +36,8 @@ But if not, just follow the regulation below.
     
 3. *consistent*  
 
-    eg. If you create a variable that belongs to familyList, you must use `Q.family()`, 
+    eg. If you create a variable that named familyList, you must use `Q.family()`. 
+    If you create a variable that named kidList, you must use`Q.kid()`. 
     
 
     
