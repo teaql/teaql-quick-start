@@ -96,17 +96,70 @@ follow the steps below.
     The format is like this.  
     ![](images/FP-4.png)
 
-2. 
+2. Open Postman,then add a new request. Similarly, select method **PUT**, and input the link into the box.  
+    click **Body** and select JSON.  
+    Input name of the kid you want to register. Just like this. 
+    ![](images/FP-5.png)
+    
+3. If the response body is like the picture above, that means you succeed. 
 
 
 
 
-
-. Add a new request in Postman. 
 
  
 
     
 
+### UNREGISTERING A KID FOR A FAMILY ###
+
+If you want to unregister a kid, the steps is same as *REGISTERING A KID FOR A FAMILY*.    
+follow the steps below.  
+
+1. write a function for unregistering kid for a family in IntelliJ IDEA.  
+    The format is like this.  
+    ![](images/FP-6.png)
+
+2. Open Postman,then add a new request. Similarly, select method **PUT**, and input the link into the box.  
+    click **Body** and select JSON.  
+    Input name of the kid you want to register. Just like this. 
+    ![](images/FP-7.png)
+    
+3. If the response body is like the picture above, that means you succeed. 
 
 
+
+
+
+
+
+### NEW YEAR IS COMING ###
+
+Presume a scene, New year is coming, so each kid in this community will grow one year older.  
+in order to complete this **Transaction**, there is need to create a new calss.  
+Details are as follows
+
+
+1. Open the *model.xml*, add a line like this. 
+    ![](images/FP-9.png)
+
+2. Open your IntelliJ IDEA,and create a new class. The path is as follows.  
+    /Users/yourname/githome/sample-daas-project/bizcore/WEB-INF/model_custom_src/com/doublechaintech/model/community/  
+    Next, create a new calsses like this. Remember to press **Command+S** to save it. 
+    ![](images/FP-8.png)
+    Then, write function in the new class as the picture below. Remember to press **Command+S** to save it. 
+    ![](images/FP-10.png)
+
+
+3. Still in your IntelliJ IDEA, write a new function. Remember to press **Command+S** to save it.  
+    ![](images/FP-11.png)
+    
+4. Open Postman,then add a new request. Select method GET, then click **Send** several times. And you'll find
+    every time you click **send**, their age increases by one year. 
+    ![](images/FP-12.png)
+    ![](images/FP-13.png)
+
+
+    
+    
+    
