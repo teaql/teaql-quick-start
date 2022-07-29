@@ -9,7 +9,7 @@ But if not, just follow the regulation below.
 
 1. Think about what information you want to see.  
 
-for e
+    for example, if you want to query  Mia's family
 
 
 2. 
