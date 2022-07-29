@@ -49,7 +49,7 @@ But if not, just follow the regulation below.
     
 5. *E*
     
-    It represent expressio
+    It represent **expression**
 
 6. *JSON's garammar*
     
