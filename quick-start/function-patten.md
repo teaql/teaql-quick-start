@@ -113,7 +113,7 @@ follow the steps below.
 
 ### UNREGISTERING A KID FOR A FAMILY ###
 
-If you want to unregister a kid.    
+If you want to unregister a kid, the steps is same as *REGISTERING A KID FOR A FAMILY*.    
 follow the steps below.  
 
 1. write a function for unregistering kid for a family in IntelliJ IDEA.  
@@ -129,3 +129,8 @@ follow the steps below.
 
 
 
+
+
+
+
+###  ###
