@@ -64,7 +64,7 @@ But if not, just follow the regulation below.
     
     
     
-### CREATE A FAMILY ###
+### CREATING A FAMILY ###
 
 If you'd like to add a family to your current community, use the Postman.  
 Here are the steps.  
