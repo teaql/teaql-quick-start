@@ -76,7 +76,7 @@ Here are the steps.
     After those steps, you can put the family you want to add by writing its name in this box. 
     ![](images/P-3.png)
     
-    When you complete this, click **Send**. It
+    When you complete this, click **Send**. It will return a message in **Body** like the picture above. That means you succeed to add a family. 
     
 
 
