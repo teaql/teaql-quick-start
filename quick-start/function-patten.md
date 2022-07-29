@@ -72,6 +72,7 @@ Here are the steps.
    ![](images/P-2.png)
    
 3. copy link, and open it in Postman. 
+    select method **PUT**, 
     ![](images/P-3.png)
     
 
