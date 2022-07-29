@@ -48,7 +48,8 @@ But if not, just follow the regulation below.
 
 5. *JSON's garammar*
     
-    When you use Postman and the method you select is **PUT**, you need to use JSON,and its format is below`{"name":"something"}`
+    When you use Postman and the method you select is **PUT**, you need to use JSON,and its format is below.  
+    `{"name":"something"}`
     
          
     
@@ -58,4 +59,6 @@ But if not, just follow the regulation below.
     
     
     
-###  ###
+### REGISTER A FAMILY ###
+
+If you'd like to add a family to your current community, you
