@@ -61,4 +61,7 @@ But if not, just follow the regulation below.
     
 ### REGISTER A FAMILY ###
 
-If you'd like to add a family to your current community, you
+If you'd like to add a family to your current community, use the Postman.  
+Here are the steps.  
+
+1. open your postman and crea
