@@ -93,7 +93,8 @@ When a new family is created, it is empty. So we need register some kids and par
 follow the steps below.  
 
 1. write a function for registering kid for a family in IntelliJ IDEA.  
-    The format is like this
+    The format is like this.  
+    ![](images/FP-4.png)
 
 
 

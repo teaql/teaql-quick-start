@@ -41,12 +41,17 @@ But if not, just follow the regulation below.
     If you create a variable that named kidList, you must use`Q.kid()`. 
     
 
-4. *E*
+4. *!*
     
     It represents **not**
     
+    
+    
+5. *E*
+    
+    It represent **expression**
 
-5. *JSON's garammar*
+6. *JSON's garammar*
     
     When you use Postman and the method you select is **PUT**, you need to use JSON,and its format is below.  
     `{"name":"something"}`
@@ -59,12 +64,13 @@ But if not, just follow the regulation below.
     
     
     
-### CREATE A FAMILY ###
+### CREATING A FAMILY ###
 
 If you'd like to add a family to your current community, use the Postman.  
 Here are the steps.  
 
-1. open your postman and create a workspace first. 
+1. open your postman and create a workspace first, and click **New** to create a collection. 
+    then Add a new request in this collection. 
 
 2. write a function for registering a family in IntelliJ IDEA. 
     
@@ -77,6 +83,28 @@ Here are the steps.
     ![](images/P-3.png)
     
     When you complete this, click **Send**. It will return a message in **Body** like the picture above. That means you succeed to add a family. 
+    
+    
+    
+    
+### REGISTERING A KID FOR A FAMILY ###
+
+When a new family is created, it is empty. So we need register some kids and parents to this family.  
+follow the steps below.  
+
+1. write a function for registering kid for a family in IntelliJ IDEA.  
+    The format is like this.  
+    ![](images/FP-4.png)
+
+
+
+
+
+
+. Add a new request in Postman. 
+
+ 
+
     
 
 
