@@ -155,7 +155,10 @@ Details are as follows
     ![](images/FP-11.png)
     
 4. Open Postman,then add a new request. Select method GET, then click **Send** several times. And you'll find
-    their age is in 
+    every time you click **send**, their age increases by one year. 
+    ![](images/FP-11.png)
+    ![](images/FP-11.png)
+
 
     
     
