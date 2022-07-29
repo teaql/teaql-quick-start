@@ -41,12 +41,17 @@ But if not, just follow the regulation below.
     If you create a variable that named kidList, you must use`Q.kid()`. 
     
 
-4. *E*
+4. *!*
     
     It represents **not**
     
+    
+    
+5. *E*
+    
+    It represent expressio
 
-5. *JSON's garammar*
+6. *JSON's garammar*
     
     When you use Postman and the method you select is **PUT**, you need to use JSON,and its format is below.  
     `{"name":"something"}`
