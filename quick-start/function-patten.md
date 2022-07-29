@@ -72,7 +72,8 @@ Here are the steps.
    ![](images/P-2.png)
    
 3. copy link, and open it in Postman. 
-    select method **PUT**, then select **Body**, next select **JSON**, 
+    select method **PUT**, then select **Body**, next select **JSON**. 
+    After those steps, you can put the family you want to add by writing its name in the
     ![](images/P-3.png)
     
 
