@@ -9,7 +9,7 @@ But if not, just follow the regulation below.
 
 1. Think about what information you want to see.  
 
-    eg. if you want to query kids list of Mia's family
+    eg. you want to query kids list of Mia's family. 
 
 
 2. write down the function. 
@@ -31,5 +31,7 @@ But if not, just follow the regulation below.
     
     eg. `helloMia` and `familyList` in the picture above followed the CamelCase.  
       
-2.
+2. *necessary format*
+
+    
     
