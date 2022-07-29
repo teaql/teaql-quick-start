@@ -96,7 +96,7 @@ follow the steps below.
     The format is like this.  
     ![](images/FP-4.png)
 
-2. 
+2. Open Postman, add a new request, 
 
 
 
