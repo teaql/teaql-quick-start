@@ -64,4 +64,10 @@ But if not, just follow the regulation below.
 If you'd like to add a family to your current community, use the Postman.  
 Here are the steps.  
 
-1. open your postman and crea
+1. open your postman and create a workspace. 
+
+2. write a function for registering a family in IntelliJ IDEA. 
+    
+    the 
+
+
