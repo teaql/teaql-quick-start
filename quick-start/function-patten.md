@@ -36,7 +36,7 @@ But if not, just follow the regulation below.
     
 3. *consistent*  
 
-    if you create a variable
+    eg. If you create a variable that belongs to familyList, you must use `Q.family()`, 
     
 
     
