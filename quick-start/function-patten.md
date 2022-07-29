@@ -148,6 +148,6 @@ Details are as follows
     Next, create a new calsses like this. 
     ![](images/FP-8.png)
     Then, write function in the new class as the picture below. 
-    !
+    ![](images/FP-10.png)
 
 
