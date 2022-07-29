@@ -23,4 +23,7 @@ But if not, just follow the regulation below.
 
 **Precautions**
     
-1.     
+1. *CamelCase*
+
+    
+    
