@@ -135,4 +135,5 @@ follow the steps below.
 
 ### NEW YEAR IS COMING ###
 
-Presume a scene, New year is coming, so each kid in this community will grow one year older. 
+Presume a scene, New year is coming, so each kid in this community will grow one year older.  
+in order to complete this **Transaction**, 
