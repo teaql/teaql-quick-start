@@ -86,7 +86,10 @@ Here are the steps.
     
     
     
-### REGISTERINGG ###
+### REGISTERING A KID FOR A FAMILY ###
+
+When a new family was created, it 
+
     
 
 
