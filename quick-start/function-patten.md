@@ -151,3 +151,5 @@ Details are as follows
     ![](images/FP-10.png)
 
 
+3. Still in your IntelliJ IDEA, write a new function. 
+    ![](images/FP-11.png)
