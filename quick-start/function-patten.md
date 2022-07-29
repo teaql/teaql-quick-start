@@ -140,11 +140,13 @@ in order to complete this **Transaction**, there is need to create a new calss.
 Details are as follows
 
 
-1. Open the *model.xml*, add a li
+1. Open the *model.xml*, add a line like this. 
+    ![](images/FP-9.png)
 
 2. Open your IntelliJ IDEA,and create a new class. The path is as follows.  
     /Users/yourname/githome/sample-daas-project/bizcore/WEB-INF/model_custom_src/com/doublechaintech/model/community/  
     Next, create a new calsses like this. 
     ![](images/FP-8.png)
+    Then, write 
 
 
