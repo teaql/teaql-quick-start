@@ -145,12 +145,14 @@ Details are as follows
 
 2. Open your IntelliJ IDEA,and create a new class. The path is as follows.  
     /Users/yourname/githome/sample-daas-project/bizcore/WEB-INF/model_custom_src/com/doublechaintech/model/community/  
-    Next, create a new calsses like this. 
+    Next, create a new calsses like this. Remember to press **Command+S** to save it. 
     ![](images/FP-8.png)
-    Then, write function in the new class as the picture below. remember to press **Command+S** to save it. 
+    Then, write function in the new class as the picture below. Remember to press **Command+S** to save it. 
     ![](images/FP-10.png)
 
 
-3. Still in your IntelliJ IDEA, write a new function. 
+3. Still in your IntelliJ IDEA, write a new function. And pres
     ![](images/FP-11.png)
+    
+    
     
