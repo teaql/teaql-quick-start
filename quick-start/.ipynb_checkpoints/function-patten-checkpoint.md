@@ -72,7 +72,7 @@ Here are the steps.
 1. open your postman and create a workspace first, and click **New** to create a collection. 
     then Add a new request in this collection. 
 
-2. write a function for registering a family in IntelliJ IDEA. 
+2. write a function for creating a family in IntelliJ IDEA. 
     
    The format is like this.
    ![](images/P-2.png)
@@ -96,6 +96,7 @@ follow the steps below.
     The format is like this.  
     ![](images/FP-4.png)
 
+2. 
 
 
 
