@@ -92,9 +92,16 @@ Here are the steps.
 When a new family is created, it is empty. So we need register some kids and parents to this family.  
 follow the steps below.  
 
-1. Add a new request in Postman. 
+1. write a function for registering kid for a family in Intelli 
 
-2. 
+
+
+
+
+
+. Add a new request in Postman. 
+
+ 
 
     
 
