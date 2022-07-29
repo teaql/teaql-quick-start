@@ -71,6 +71,9 @@ Here are the steps.
    The format is like this.
    ![](images/P-2.png)
    
-3. copy link, 
+3. copy link, and open it in Postman. 
+    ![](images/P-3.png)
+    
+
 
 
