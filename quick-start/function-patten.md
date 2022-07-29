@@ -70,6 +70,7 @@ If you'd like to add a family to your current community, use the Postman.
 Here are the steps.  
 
 1. open your postman and create a workspace first, and click **New** to create a collection. 
+    then Add a new request in this collection. 
 
 2. write a function for registering a family in IntelliJ IDEA. 
     
@@ -93,7 +94,7 @@ follow the steps below.
 
 1. Add a new request in Postman. 
 
-
+2. 
 
     
 
