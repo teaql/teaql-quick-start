@@ -96,7 +96,7 @@ follow the steps below.
     The format is like this.  
     ![](images/FP-4.png)
 
-2. Open Postman, add a new request, 
+2. Open Postman, select method **PUT**, then add a new request,  input the link into 
 
 
 
