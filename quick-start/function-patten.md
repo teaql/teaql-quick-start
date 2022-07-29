@@ -83,6 +83,11 @@ Here are the steps.
     
     When you complete this, click **Send**. It will return a message in **Body** like the picture above. That means you succeed to add a family. 
     
+    
+    
+    
+### REGISTERINGG ###
+    
 
 
 
