@@ -39,7 +39,8 @@ But if not, just follow the regulation below.
     eg. If you create a variable that named familyList, you must use `Q.family()`. 
     If you create a variable that named kidList, you must use`Q.kid()`. 
     
-
+4. *E*
+    It re present 
     
     
     
