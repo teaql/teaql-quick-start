@@ -99,14 +99,13 @@ follow the steps below.
 2. Open Postman,then add a new request. Similarly, select method **PUT**, and input the link into the box.  
     click **Body** and select JSON.  
     Input name of the kid you want to register. Just like this. 
-    ![](images/FP-5.)
+    ![](images/FP-5.png)
     
+3. If the response body is like the picture above, that 
 
 
 
 
-
-. Add a new request in Postman. 
 
  
 
