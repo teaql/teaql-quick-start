@@ -101,7 +101,7 @@ follow the steps below.
     Input name of the kid you want to register. Just like this. 
     ![](images/FP-5.png)
     
-3. If the response body is like the picture above, that 
+3. If the response body is like the picture above, that means you succeed. 
 
 
 
