@@ -30,7 +30,8 @@ But if not, just follow the regulation below.
       
 2. *necessary format*  
     
-    `
+    + Starts with public Webresponse and ends with return
+    + Mark each sentence with a semicolon
 
     
     
