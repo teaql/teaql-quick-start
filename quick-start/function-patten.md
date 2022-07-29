@@ -34,14 +34,23 @@ But if not, just follow the regulation below.
     + Mark each sentence with a semicolon. 
     + As for `SmartList<Family>`, when you write down the variable of familyList, IntelliJ IDEA will prompt you and fill it in automatically for you.  
     
+
 3. *consistent*  
 
     eg. If you create a variable that named familyList, you must use `Q.family()`. 
     If you create a variable that named kidList, you must use`Q.kid()`. 
     
+
 4. *E*
-    It re present 
     
+    It represents **not**
+    
+
+5. *JSON's garammar*
+    
+    {"name":"somethig"}
+    
+         
     
     
     
