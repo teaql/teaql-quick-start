@@ -14,6 +14,6 @@ But if not, just follow the regulation below.
 
 2. write down the function. 
 
-    eg. Take the scenario mentioned in the first point as an example， you can write the  
-    function like this. 
+    eg. Take the scenario mentioned in the first point as an example， you can write  
+    the function like this. 
     
