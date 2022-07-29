@@ -9,7 +9,9 @@ But if not, just follow the regulation below.
 
 1. Think about what information you want to see.  
 
-    for example, if you want to query  Mia's family
+    eg. if you want to query kids list of Mia's family
 
 
-2. 
+2. write down the function. 
+
+    eg. 
