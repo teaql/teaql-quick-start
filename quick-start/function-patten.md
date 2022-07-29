@@ -154,7 +154,9 @@ Details are as follows
 3. Still in your IntelliJ IDEA, write a new function. Remember to press **Command+S** to save it.  
     ![](images/FP-11.png)
     
-4. Open Postman,then add a new request. Select method GET, then click **Send**  
+4. Open Postman,then add a new request. Select method GET, then click **Send** several times. And you'll find
+    these kid in this 
+
     
     
     
