@@ -97,6 +97,7 @@ follow the steps below.
     ![](images/FP-4.png)
 
 2. Open Postman,then add a new request. Similarly, select method **PUT**, and input the link into the box.  
+    click **Body** and select JSON.  
     
 
 
