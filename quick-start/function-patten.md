@@ -88,7 +88,12 @@ Here are the steps.
     
 ### REGISTERING A KID FOR A FAMILY ###
 
-When a new family was created, it 
+When a new family is created, it is empty. So we need register some kids and parents to this family.  
+follow the steps below.  
+
+1. 
+
+
 
     
 
