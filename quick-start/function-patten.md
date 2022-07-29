@@ -48,7 +48,7 @@ But if not, just follow the regulation below.
 
 5. *JSON's garammar*
     
-    {"name":"somethig"}
+    When you use Postman and the method you select is **PUT**, you need to use JSON,and its format is below`{"name":"something"}`
     
          
     
