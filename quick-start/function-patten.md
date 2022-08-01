@@ -144,7 +144,10 @@ Details are as followed.
     
 2. Open Postman,then add a new request. Similarly, select method **PUT**, and input the link into the box.  
     click **Body** and select JSON.  
-    Input the name of the kid that you want to change his(her) feature
+    Input the name of the kid that you want to change his(her) feature, Then input the feature you want to change  
+    or add. 
+    ![](images/FP-15.png)
+
     
 
 
