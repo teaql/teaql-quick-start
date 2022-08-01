@@ -168,7 +168,7 @@ Details are as follows.
 ### NEW YEAR IS COMING ###
 
 Presume a scene, New year is coming, so each kid in this community will grow one year older.  
-in order to complete this **Transaction**, there is need to create a new calss.  
+in order to complete this, there is need to create a new calss.  
 Details are as follows
 
 
@@ -192,6 +192,20 @@ Details are as follows
     ![](images/FP-13.png)
 
 
+
+
     
+### TRANSACTION ###    
     
-    
+When you execute the event "New Year is coming", there is a problem. Cause you have set the age limitation for every kid,  
+so when you execute the event "New Year is coming", some children those have reached the upper age limit set can't grow  anymore. At this time, the response body returns something like this.  
+
+![](images/transaction-error.png)
+
+Athough it failed to increase kid's age, this failure is aimed at children over 10 years old.  For children under the age of ten, it is also possible to continue to increase the age.  
+As shown below. 
+
+
+
+So it's not logical, and we need use **Transaction**, 
+
