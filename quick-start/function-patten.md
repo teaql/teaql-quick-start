@@ -131,10 +131,11 @@ follow the steps below.
 
 
 
-### ADDING FEATURE TO A KID ###
+### UPDATING ###
 
 When you rigistered a kid successfully, there is just his(her) name. If you want to add another features to him(her),  
-the steps are as if you register a
+the steps are as if you register a kid for a family. The only difference is that you need to write a new function for  
+updating
 
 
 
