@@ -153,7 +153,7 @@ Details are as follows.
     
 3. When you get the response like the picture above, that means you have succeed. 
     Then you can check the kid's feature by writing a new function. 
-    ![](images)
+    ![](images/FP-16.png)
  
     
 
