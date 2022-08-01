@@ -133,7 +133,8 @@ follow the steps below.
 
 ### ADDING FEATURE TO A KID ###
 
-When you rigistered a kid successfully, there is just h
+When you rigistered a kid successfully, there is just his(her) name. If you want to add another features to him(her),  
+the steps are like 
 
 
 
