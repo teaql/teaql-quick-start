@@ -158,7 +158,8 @@ Details are as follows.
     This is Alice's original age.  
     ![](images/FP-16.png)
     
-    this is her age after chang 
+    This is his age after the change
+
     
  
     

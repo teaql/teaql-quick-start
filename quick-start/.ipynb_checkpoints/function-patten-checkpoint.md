@@ -137,10 +137,34 @@ When you rigistered a kid successfully, there is just his(her) name. If you want
 the steps are as if you register a kid for a family. The only difference is that you need to write a new function for  
 updating kid's feature.  
 
-Details are as followed.  
+Details are as follows.  
 
 1. Write a function like this in your IntelliJ IDEA.  
+    ![](images/FP-14.png)
+    
+2. Open Postman,then add a new request.
+    + select method **PUT**, 
+    + input the link http://localhost:8080/model/communityManager/helloUpdateKidForEmilyFamily/ into the box.  
+    + click **Body** and select JSON.  
+    + Input the name of the kid that you want to change his(her) feature, Then input the feature you want to change  
+    or add. 
+    + Click **Send**
+    ![](images/FP-15.png)
+    
+3. When you get the response like the picture above, that means you have succeed. 
+    Then you can check the kid's feature by writing a new function. 
+    ![](images/FP-17.png)
+    
+    This is Alice's original age.  
+    ![](images/FP-16.png)
+    
+    This is his age after the change
 
+    
+ 
+    
+
+    
 
 
 
@@ -153,7 +177,7 @@ Details are as followed.
 
 Presume a scene, New year is coming, so each kid in this community will grow one year older.  
 in order to complete this **Transaction**, there is need to create a new calss.  
-Details are as followed
+Details are as follows
 
 
 1. Open the *model.xml*, add a line like this. 
