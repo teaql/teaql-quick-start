@@ -131,7 +131,9 @@ follow the steps below.
 
 
 
-### ADDING 
+### ADDING FEATURE TO A KID ###
+
+When you rigistered a kid successfully, there is just h
 
 
 
