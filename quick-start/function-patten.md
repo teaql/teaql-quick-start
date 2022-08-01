@@ -168,7 +168,7 @@ Details are as follows.
 ### NEW YEAR IS COMING ###
 
 Presume a scene, New year is coming, so each kid in this community will grow one year older.  
-in order to complete this **Transaction**, there is need to create a new calss.  
+in order to complete this, there is need to create a new calss.  
 Details are as follows
 
 
@@ -195,5 +195,5 @@ Details are as follows
 
 
     
-### NEW YEAR IS COMING ###    
+###  ###    
     
