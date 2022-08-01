@@ -159,6 +159,8 @@ Details are as follows.
     ![](images/FP-16.png)
     
     This is his age after the change
+    ![](images/FP-18.png)
+    
 
     
  
