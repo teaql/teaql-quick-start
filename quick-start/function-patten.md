@@ -202,4 +202,7 @@ so when you execute the event "New Year is coming", some children those have rea
 
 ![](images/transaction-error.png)
 
-Athough it failed to increase kid's age, this failure is aimed at children over 10 years old
+Athough it failed to increase kid's age, this failure is aimed at children over 10 years old.  For children under the age of ten, it is also possible to continue to increase the age.  
+
+So it's not logical, and we need 
+
