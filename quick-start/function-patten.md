@@ -198,4 +198,6 @@ Details are as follows
 ### TRANSACTION ###    
     
 When you execute the event "New Year is coming", there is a problem. Cause you have set the age limitation for every kid,  
-so when you execute the event "New Year is coming", some children those have reached the upper age limit set can't age   anymore. At this 
+so when you execute the event "New Year is coming", some children those have reached the upper age limit set can't age   anymore. At this time, the response body returns something like this.  
+
+![](images/)
