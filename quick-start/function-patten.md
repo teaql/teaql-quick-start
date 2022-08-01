@@ -142,7 +142,10 @@ Details are as followed.
 1. Write a function like this in your IntelliJ IDEA.  
     ![](images/FP-14.png)
     
-
+2. Open Postman,then add a new request. Similarly, select method **PUT**, and input the link into the box.  
+    click **Body** and select JSON.  
+    Input the name of the kid that you want to change his(her) feature
+    
 
 
 
