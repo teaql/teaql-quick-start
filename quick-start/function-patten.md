@@ -197,4 +197,5 @@ Details are as follows
     
 ### TRANSACTION ###    
     
-When you   
+When you execute the event "New Year is coming", there is a problem. Cause you have set the age limitation for every kid,  
+so when you execute the event "New Year is coming", some children have reached the upper age limit set, 
