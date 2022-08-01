@@ -162,17 +162,6 @@ Details are as follows.
     ![](images/FP-18.png)
     
 
-    
- 
-    
-
-    
-
-
-
-
-
-
 
 
 ### NEW YEAR IS COMING ###
