@@ -140,6 +140,8 @@ updating kid's feature.
 Details are as followed.  
 
 1. Write a function like this in your IntelliJ IDEA.  
+    ![](images/FP-14.png)
+    
 
 
 
