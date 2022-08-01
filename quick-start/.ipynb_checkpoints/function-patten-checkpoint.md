@@ -131,13 +131,29 @@ follow the steps below.
 
 
 
+### UPDATING KID'S FEATURE ###
+
+When you rigistered a kid successfully, there is just his(her) name. If you want to add another features to him(her),  
+the steps are as if you register a kid for a family. The only difference is that you need to write a new function for  
+updating kid's feature.  
+
+Details are as followed.  
+
+1. Write a function like this in your IntelliJ IDEA.  
+
+
+
+
+
+
+
 
 
 ### NEW YEAR IS COMING ###
 
 Presume a scene, New year is coming, so each kid in this community will grow one year older.  
 in order to complete this **Transaction**, there is need to create a new calss.  
-Details are as follows
+Details are as followed
 
 
 1. Open the *model.xml*, add a line like this. 
