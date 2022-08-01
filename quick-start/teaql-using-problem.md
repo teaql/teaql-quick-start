@@ -64,6 +64,7 @@ Enter the Terminal,Input these code one by one.
 
 `mysql.server restart`
 
+`bin/httpd.sh `
 
 
 
@@ -75,4 +76,4 @@ Enter the Terminal,Input these code one by one.
 
 
 
- brew install java
+ 
