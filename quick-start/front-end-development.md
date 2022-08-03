@@ -13,9 +13,9 @@
 ![](images/RC-1.png)
 
 2. 跳转到另一个新的界面  
-    +先给新建的repository起一个名字 （例如elimy-notebook）
-    +记得点击**Add a README file**
-    +最后点击Create repository  
+    + 先给新建的repository起一个名字 （例如elimy-notebook） 
+    + 记得点击*Add a README file* 绿色按键 
+    + 最后点击Create repository  绿色按键   
     
 ![](images/RC-2.png)
 
@@ -25,7 +25,8 @@
 **在Terminal里打开**
 
 1. 粘贴并进入
-    点击Code
+    点击*Code* 绿色按键之后会弹出一个新的小窗口点击复制键（如红色框所圈） 
+    
 ![](images/RC-3.png)
 
 
