@@ -14,8 +14,8 @@
 
 2. 跳转到另一个新的界面  
     + 先给新建的repository起一个名字 （例如elimy-notebook） 
-    + 记得点击*Add a README file* 绿色按键 
-    + 最后点击Create repository  绿色按键   
+    + 记得点击*Add a README file*  
+    + 最后点击绿色按键 *Create repository*    
     
 ![](images/RC-2.png)
 
@@ -36,7 +36,7 @@
 
 在网页上打开https://github.com/doublechaintech/dyna-react-ui/invitations 
     + 先点击*fork*把repository复制到自己的电脑里  
-    + 再复制这个命令行（操作如）
+    + 再复制这个命令行（操作与）
 ![](images/RC-4.png)
 
     
