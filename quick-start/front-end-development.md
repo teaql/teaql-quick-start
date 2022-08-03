@@ -41,6 +41,7 @@
     + 输入`git clone`+` https://github.com/emily2552/dyna-react-ui.git`(即+第3点复制的内容)
     + 输入`cd dyna-react-ui`
     + 输入`brew install node`，该过程完成的时间比较长，请耐心等待
+     npm install --global yarn
     + 输入`yarn`， 该过程完成的时间比较长，请耐心等待
     
 
