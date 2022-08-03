@@ -20,7 +20,7 @@ the **Command + space key**, then input **Terminal**, and click this solftware.
 3. input these codes by order.  
 
 `cd resin-3.1.16`
-`mysql.server restart`
+`mysql.server start`
 `bin/httpd.sh `
 
 
