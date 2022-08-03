@@ -32,10 +32,13 @@
 
 2. 打开Terminal
     + 输入`githome`以进入该目录
-    + 输入git clone +空格+ 刚才粘贴的内容，再按回车键
-    + 输入`cd https://github.com/emily2552/dyna-re`  
+    + 输入git clone +空格+ 刚才粘贴的内容，再按回车键  
+在
+
+在
     
     
+    + 输入`cd https://github.com/emily2552/dyna-re`   
     + 输入`git clone https://github.com/emily2552/dyna-react-ui.git`
     + 输入`cd dyna-react-ui`
     + 输入`brew install node`， 该过程的时间花费得比较长，请耐心等待
