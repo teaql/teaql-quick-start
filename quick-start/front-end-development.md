@@ -51,4 +51,6 @@
     + 输入`githome`以进入该目录
     + 输入`git clone https://github.com/emily2552/cms-project-config.git`
     + 输入`cd cms-project-config `
+    + 输入`git branch`
+        如果显示的内容直
  https://github.com/doublechaintech/dyna-react-ui/invitations
