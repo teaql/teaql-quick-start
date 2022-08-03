@@ -31,5 +31,6 @@
 
 
 2. 打开Terminal
-    + 输入`githome`
+    + 输入`githome`以进入该目录
+    + 输入git clone https://github.com/emily2552/elimy-notebook.git
 https://github.com/doublechaintech/dyna-react-ui/invitations
