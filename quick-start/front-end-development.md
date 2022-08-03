@@ -42,10 +42,12 @@
     + 输入`cd dyna-react-ui`
     + 输入`brew install node`，该过程完成的时间比较长，请耐心等待
     + 输入`npm install --global yarn`
-    + 输入`yarn`， 该过程完成的时间比较长，请耐心等待
+    + 输入`yarn`该过程完成的时间比较长，请耐心等待
     
+5. 再jin
 
-5. 在Terminal里再创建一个新的窗口
-    + 输入
+
+6. 在Terminal里再创建一个新的窗口
+    + 输入`githome`以进入该目录
     
 https://github.com/doublechaintech/dyna-react-ui/invitations
