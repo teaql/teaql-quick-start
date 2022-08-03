@@ -20,4 +20,13 @@
 ![](images/RC-2.png)
 
 
-**在Terminal里打开
+
+
+**在Terminal里打开**
+
+1. 粘贴并进入
+
+！[]()
+
+
+https://github.com/doublechaintech/dyna-react-ui/invitations
