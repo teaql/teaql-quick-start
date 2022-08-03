@@ -31,5 +31,5 @@
 
 
 2. 打开Terminal
-    + 输入
+    + 输入`githome`
 https://github.com/doublechaintech/dyna-react-ui/invitations
