@@ -25,7 +25,7 @@
 **在Terminal里打开**
 
 1. 粘贴并进入
-
+    点击Code
 ![](images/RC-3.png)
 
 
