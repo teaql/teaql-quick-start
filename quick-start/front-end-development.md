@@ -56,4 +56,4 @@
     + 输入`git branch`
         如果显示的内容只有master（如下图所示），那么是在第5步的时候没有取消掉**fork master only**
         这时需要吧第五步fork的内容删除，再来一次并取消掉**fork master only**
-    + 
+    + fen bie shu
