@@ -17,7 +17,10 @@
     + 记得点击*Add a README file*  
     + 最后点击绿色按键 *Create repository*    
     
-![](images/RC-2.png)
+![](images/RC-2.png)  
+
+
+
 
 
 
