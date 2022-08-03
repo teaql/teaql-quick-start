@@ -49,6 +49,7 @@
     + 输入`yarn`， 该过程完成的时间比较长，请耐心等待
     
 
-5. 在Terminal里再创建一个新的chuan
+5. 在Terminal里再创建一个新的窗口
+    + 输入
     
 https://github.com/doublechaintech/dyna-react-ui/invitations
