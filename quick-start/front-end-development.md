@@ -8,3 +8,5 @@
 
 
 **在git里创建一个repository**
+
+当你进入成功创建Git
