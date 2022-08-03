@@ -13,8 +13,9 @@
 ![](images/RC-1.png)
 
 2. 跳转到另一个新的界面  
-    先给新建的repository起一个名字（例如elimy-notebook）
-
+    +先给新建的repository起一个名字 （例如elimy-notebook）
+    +记得点击**Add a README file**
+    +最后点ji
 ![](images/RC-2.png)
 
 
