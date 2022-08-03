@@ -26,7 +26,9 @@
 
 1. 粘贴并进入
 
-！[]()
+![](images/RC-3.png)
+
+
 
 
 https://github.com/doublechaintech/dyna-react-ui/invitations
