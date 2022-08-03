@@ -44,7 +44,9 @@
     + 输入`npm install --global yarn`
     + 输入`yarn`该过程完成的时间比较长，请耐心等待
     
-5. 在网页上打开
+
+5. 在网页上打开https://github.com/emily2552/cms-project-config
+    点击fork
 
 
 6. 在Terminal里再创建一个新的窗口
@@ -52,5 +54,5 @@
     + 输入`git clone https://github.com/emily2552/cms-project-config.git`
     + 输入`cd cms-project-config `
     + 输入`git branch`
-        如果显示的内容只有master（如下图所示），那么si h
+        如果显示的内容只有master（如下图所示），那么是在第5步的时候
  https://github.com/doublechaintech/dyna-react-ui/invitations
