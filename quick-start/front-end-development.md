@@ -1,13 +1,15 @@
 
-## 前端开发 ##
+# 前端开发 #
 
-**准备工作**
+
+## 准备工作 ##
+
 
 1. git的账号创建。
 
 
 
-**在git里创建一个repository**
+## 在git里创建一个repository ##
 
 1. 当你进入成功创建Git账号并进入后, 点击左上角的**Create repository**创建一个repositoty
 ![](images/RC-1.png)
@@ -21,11 +23,7 @@
 
 
 
-
-
-
-
-**在Terminal里打开**
+## 在Terminal里打开 ## 
 
 1. 粘贴并进入
     点击绿色按键*Code*之后会弹出一个新的小窗口，点击复制键（如红色框所圈） 
