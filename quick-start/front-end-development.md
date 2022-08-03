@@ -25,7 +25,7 @@
 **在Terminal里打开**
 
 1. 粘贴并进入
-    点击*Code* 绿色按键之后会弹出一个新的小窗口点击复制键（如红色框所圈） 
+    点击绿色按键*Code*之后会弹出一个新的小窗口，点击复制键（如红色框所圈） 
     
 ![](images/RC-3.png)
 
@@ -36,7 +36,7 @@
 
 在网页上打开https://github.com/doublechaintech/dyna-react-ui/invitations 
     + 先点击*fork*把repository复制到自己的电脑里  
-    + 
+    + 再复制这个命令行（操作如）
 ![](images/RC-4.png)
 
     
