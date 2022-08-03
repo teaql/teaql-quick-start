@@ -37,6 +37,7 @@
     + 输入`git clone https://github.com/emily2552/dyna-react-ui.git`
     + 输入`cd dyna-react-ui`
     + 输入`brew install node`， 该过程的时间花费得比较长，请耐心等待
+    + 输入`yarn`
     
     
 https://github.com/doublechaintech/dyna-react-ui/invitations
