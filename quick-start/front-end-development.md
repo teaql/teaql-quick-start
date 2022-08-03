@@ -48,5 +48,7 @@
     + 输入`brew install node`，该过程完成的时间比较长，请耐心等待
     + 输入`yarn`， 该过程完成的时间比较长，请耐心等待
     
+
+5. 在Terminal里再创建一个新的chuan
     
 https://github.com/doublechaintech/dyna-react-ui/invitations
