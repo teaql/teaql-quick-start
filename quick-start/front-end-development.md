@@ -7,4 +7,4 @@
 
 
 
-**在git里创建一个h**
+**在git里创建一个repository**
