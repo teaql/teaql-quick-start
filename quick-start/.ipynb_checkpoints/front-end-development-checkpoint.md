@@ -9,8 +9,16 @@
 
 **在git里创建一个repository**
 
-当你进入成功创建Git账号并进入后
-点击左上角的**Create repository**创建一个repositoty
-![](images/git-creating-new-repository.png)
+1. 当你进入成功创建Git账号并进入后, 点击左上角的**Create repository**创建一个repositoty
+![](images/RC-1.png)
+
+2. 跳转到另一个新的界面  
+    +先给新建的repository起一个名字 （例如elimy-notebook）
+    +记得点击**Add a README file**
+    +最后点击Create repository  
+    
+![](images/RC-2.png)
+
+
 
 在Terminal里
