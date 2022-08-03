@@ -49,5 +49,5 @@
 
 6. 在Terminal里再创建一个新的窗口
     + 输入`githome`以进入该目录
-    
-https://github.com/doublechaintech/dyna-react-ui/invitations
+    + 
+ https://github.com/doublechaintech/dyna-react-ui/invitations
