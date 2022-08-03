@@ -9,4 +9,8 @@
 
 **在git里创建一个repository**
 
-当你进入成功创建Git
+当你进入成功创建Git账号并进入后
+
+
+
+在Terminal里
