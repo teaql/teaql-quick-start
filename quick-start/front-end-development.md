@@ -34,7 +34,8 @@
     + 输入`githome`以进入该目录
     + 输入git clone +空格+ 刚才粘贴的内容，再按回车键  
 
-在网页上打开https://github.com/doublechaintech/dyna-react-ui/invitations   
+在网页上打开https://github.com/doublechaintech/dyna-react-ui/invitations 
+先点击*fork*把repository
 ![](images/RC-4.png)
 
     
