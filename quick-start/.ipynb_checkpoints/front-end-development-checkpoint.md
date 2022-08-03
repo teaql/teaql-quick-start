@@ -30,6 +30,6 @@
 ![](images/RC-3.png)
 
 
-
-
+2. 打开Terminal
+    + 输入
 https://github.com/doublechaintech/dyna-react-ui/invitations
