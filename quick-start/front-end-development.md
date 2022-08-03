@@ -50,5 +50,5 @@
 6. 在Terminal里再创建一个新的窗口
     + 输入`githome`以进入该目录
     + 输入`git clone https://github.com/emily2552/cms-project-config.git`
-    
+    + 输入`cd cms-project-config `
  https://github.com/doublechaintech/dyna-react-ui/invitations
