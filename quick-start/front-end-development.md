@@ -32,14 +32,15 @@
 
 2. 打开Terminal
     + 输入`githome`以进入该目录
-    + 输入`git clone` + `空格 + 刚才粘贴的内容`，再按回车键  
+    + 输入`git clone ` + `https://github.com/emily2552/elimy-notebook.git`（刚才复制的内容），再按回车键  
+
 
 3. 在网页上打开https://github.com/doublechaintech/dyna-react-ui/invitations 
     + 先点击*fork*把repository复制到自己的电脑里  
     + 再复制这个命令行（操作与第一点相同）
 ![](images/RC-4.png)
     + 输入`cd https://github.com/emily2552/dyna-re`   
-    + 输入`git clone`+` https://github.com/emily2552/dyna-react-ui.git`(即刚才复制的内容)
+    + 输入`git clone`+` https://github.com/emily2552/dyna-react-ui.git`(即+刚才复制的内容)
     + 输入`cd dyna-react-ui`
     + 输入`brew install node`， 该过程的时间花费得比较长，请耐心等待
     + 输入`yarn`
