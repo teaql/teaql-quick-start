@@ -20,5 +20,4 @@
 ![](images/RC-2.png)
 
 
-
-在Terminal里
+**在Terminal里打开
