@@ -1,7 +1,7 @@
 
 # 前端开发 #
 
-
+进入https://github.com/ 创建git的账号
 
 ## 在git里创建一个repository ##
 
