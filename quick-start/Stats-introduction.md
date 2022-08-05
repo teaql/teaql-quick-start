@@ -28,12 +28,14 @@ If you want to count all the peaple in this community, or the population of a fa
 >        return WebResponse.fromSmartList(communityList);
 >
 >    } 
->    
-> 
->    When you  finish this step. 
->    + press **Command** + **S** for saving it. 
->    + input `gradle classes`, and press **return**. 
->
+>   
+      
+      
+    
+When you  finish this step. 
++ press **Command** + **S** for saving it. 
++ input `gradle classes`, and press **return**. 
+
 
     
 2. Copy the URL, visit the site in Postman. you can scan the content successfully. 
@@ -58,6 +60,9 @@ If you only aim to count the number of kids,
 >        return WebResponse.fromSmartList(familyList);
 >
 >    }
+    
+    
+
 
     
     
