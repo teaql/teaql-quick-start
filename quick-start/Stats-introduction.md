@@ -1,7 +1,8 @@
 
 ## STATS BY USING POSTMAN ##
 
-If you want to count all the peaple in this community, or the population of a family, you can use IntelliJ IDEA and Postman to complete it. Follow these steps. 
+If you want to count all the peaple in this community, or the population of a family, you can use IntelliJ IDEA and Postman to complete it.  
+Follow these steps. 
 
 1. Write a function in IntelliJ IDEA like this.  
      Multiple choice(e.g. I want to see all households, That is *top to bottom*). write a function in IntelliJ IDEA like this.  
@@ -36,8 +37,7 @@ When you finish this step.
 
     
 2. Copy the URL, visit the site in Postman. you can scan the content successfully. 
-    ![](images/stats-2.png)
-
+    <img src="images/stats-2.png" width="800" height="800">
 
 
 
@@ -71,7 +71,7 @@ When you finish this step.
     
 Then enter Postman to check the infomation.
     
-<img src="images/stats-3.png" width="700" height="700">
+<img src="images/stats-3.png" width="600" height="600">
     
     
 
