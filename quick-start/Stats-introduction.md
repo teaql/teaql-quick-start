@@ -18,20 +18,20 @@ If you want to count all the peaple in this community, or the population of a fa
 >                        >.statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())
 >                        .statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())
 >                        >.selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
->                                .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
-                        .executeForList(userContext);
-
-
-
-        return WebResponse.fromSmartList(communityList);
-
+>                                >.selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
+>                        .executeForList(userContext);
+>
+>
+>
+>        return WebResponse.fromSmartList(communityList);
+>
 >    } 
-    
- 
-    When you  finish this step. 
-    + press **Command** + **S** for saving it. 
-    + input `gradle classes`, and press **return**. 
-
+>    
+> 
+>    When you  finish this step. 
+>    + press **Command** + **S** for saving it. 
+>    + input `gradle classes`, and press **return**. 
+>
 2. Copy the URL, visit the site in Postman. you can scan the content successfully. 
     ![](images/stats-2.png)
 
