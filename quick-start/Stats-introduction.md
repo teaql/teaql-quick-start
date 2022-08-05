@@ -20,7 +20,7 @@ If you want to count all the peaple in this community, or the population of a fa
 
 ### ANOTHER EXANMPLE ###
 
-
+If you only aim to count the number of f 
 
 > public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
 >
