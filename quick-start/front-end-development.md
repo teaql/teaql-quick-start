@@ -71,7 +71,10 @@
 # 统一两个前端分支 #
 
  1. 在VScode里打开本地的文件
+    ![](images/front-end-3.png) 
+     
  2. 在IntelliJ IDEA打开相同的文件cms-project-config  
+     ![](images/front-end-3.png)
  
 
 特别说明：  
@@ -84,4 +87,6 @@
 例如说：在SaaS分支（显示的网页里）没有“产品周转率”，而G-gas分支上有“产品周转率”，现在进行迁移，请遵循以下步骤。  
 
 1. 在G-gas网页上，将鼠标光标放在“产品周转率”上，会自动显示名字
+    ![](images/front-end-3.png)
 
+2. 
