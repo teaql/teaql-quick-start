@@ -20,14 +20,14 @@ If you want to count all the peaple in this community, or the population of a fa
 
 ### ANOTHER EXANMPLE ###
 
->>  public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
-
-
-        SmartList<Family> familyList = Q.kid().count().sumAge().endAtFamily("kidsCount")
+> public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
+>
+>
+>        SmartList<Family> familyList = Q.kid().count().sumAge().endAtFamily("kidsCount")
                 .selectName()
                 .executeForList(userContext);
 
 
-        return WebResponse.fromSmartList(familyList);
+>        return WebResponse.fromSmartList(familyList);
 
     }
