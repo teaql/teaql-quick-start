@@ -49,7 +49,7 @@
     点击fork
 
 
-6. 在Terminal里再创建一个新的窗口
+6. 在Terminal里再创建一个新的窗口，联接文件public
     + 输入`githome`以进入该目录
     + 输入`git clone https://github.com/emily2552/cms-project-config.git`
     + 输入`cd cms-project-config `
@@ -64,3 +64,43 @@
     + 输入`cd dyna-react-ui`  
     + 输入`ln`联接文件  
     + 输入`ln -s ~/githome/cms-project-config/public public`联接文件public
+    
+    
+   
+   
+# 统一两个前端分支 #
+
+ 1. 在VScode里打开本地的文件
+    ![](images/front-end-1.png) 
+     
+ 2. 在IntelliJ IDEA打开相同的文件cms-project-config  
+     ![](images/front-end-2.png)
+ 
+
+特别说明：  
++ VScode对应SaaS分支： 
+    http://127.0.0.1:8000/
+
++ IntelliJ IDEA对应ggas分支： 
+    https://cmstest.ggas.com/#
+    
+例如说：在SaaS分支（显示的网页里）没有“产品周转率”，而G-gas分支上有“产品周转率”，现在进行迁移，请遵循以下步骤。  
+
+1. 在G-gas网页上，将鼠标光标放在“产品周转率”上，会自动显示名字
+    ![](images/front-end-3.png)
+
+2. 再到IntelliJ IDEA里在public目录中打开dyna_app.js dyna-react-ui或者直接搜索（如下图所示）  
+    ![](images/front-end-4.png)
+    
+3. 在dyna_app.js dyna-react-ui文件里找到“产品周转率”，得知其所在目录09,以及文件名pproduct_turnover.json  
+    ![](images/front-end-5.png)
+ 
+4. 在IntelliJ IDEA里打开这个文件，然后粘贴所有的内容  
+    ![](images/front-end-6.png)
+    
+5. 在Vscode里找到09的文件目录，在该目录下新建一个文件，粘贴刚才复制的内容并保存,在Vscode里打开dyna_app.js，添加上“产品周转”  
+    ![](images/front-end-7.png) 
+    
+6. 在Vscode里打开siteinfo.js,进行登记（注意找对位置）  
+    ![](images/front-end-8.png)
+

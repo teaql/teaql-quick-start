@@ -98,3 +98,9 @@
 4. 在IntelliJ IDEA里打开这个文件，然后粘贴所有的内容  
     ![](images/front-end-6.png)
     
+5. 在Vscode里找到09的文件目录，在该目录下新建一个文件，粘贴刚才复制的内容并保存,在Vscode里打开dyna_app.js，添加上“产品周转”  
+    ![](images/front-end-7.png) 
+    
+6. 在Vscode里打开siteinfo.js,进行登记（注意找对位置）  
+    ![](images/front-end-8.png)
+
