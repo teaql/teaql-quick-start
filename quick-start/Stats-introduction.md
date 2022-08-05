@@ -65,7 +65,7 @@ When you finish this step.
 + input `gradle classes`, and press **return**. 
     
 Then enter Postman to check the infomation.
-    
+    ![](images/stats-3.png)
     
     
 
