@@ -28,7 +28,7 @@ If you want to count all the peaple in this community, or the population of a fa
       
       
     
-When you  finish this step. 
+When you finish this step. 
 + press **Command** + **S** for saving it. 
 + input `gradle classes`, and press **return**. 
 
@@ -64,7 +64,8 @@ When you  finish this step.
 + press **Command** + **S** for saving it. 
 + input `gradle classes`, and press **return**. 
     
-Then enter Po  
+Then enter Postman to check the infomation.
+    
     
 
     
