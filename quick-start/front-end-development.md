@@ -49,7 +49,7 @@
     点击fork
 
 
-6. 在Terminal里再创建一个新的窗口
+6. 在Terminal里再创建一个新的窗口，联接文件public
     + 输入`githome`以进入该目录
     + 输入`git clone https://github.com/emily2552/cms-project-config.git`
     + 输入`cd cms-project-config `
@@ -64,3 +64,6 @@
     + 输入`cd dyna-react-ui`  
     + 输入`ln`联接文件  
     + 输入`ln -s ~/githome/cms-project-config/public public`联接文件public
+    
+    
+    
