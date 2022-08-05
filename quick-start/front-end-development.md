@@ -59,4 +59,8 @@
     + 输入`git remote -v`
     + 输入`git branch -a`    
     + 输入`https_proxy=http://127.0.0.1:1087 git pull`        
-    + 输入`git branch -a`        
+    + 输入`git checkout saas`
+    + 输入`git checkout saas`
+    + 输入`git checkout saas`                
+    + 输入`git checkout saas`         
+    + 输入`git checkout saas`             `        
