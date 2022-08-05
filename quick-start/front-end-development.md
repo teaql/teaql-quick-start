@@ -66,4 +66,9 @@
     + 输入`ln -s ~/githome/cms-project-config/public public`联接文件public
     
     
-    
+   
+   
+# 统一两个前端分支 #
+
+ 1. 在VScode里打开本地的文件
+ 
