@@ -26,7 +26,8 @@ If you want to count all the peaple in this community, or the population of a fa
 >    } 
 >   
       
-      
+the code in Intelli JIDEA. 
+    ![](images/stats-1.png)
     
 When you finish this step. 
 + press **Command** + **S** for saving it. 
