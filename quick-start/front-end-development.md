@@ -60,7 +60,7 @@
     + 输入`git branch -a`    
     + 输入`https_proxy=http://127.0.0.1:1087 git pull`        
     + 输入`git checkout saas`  
-    + 输入`cd ..`
+    + 输入`cd ..`退回到上一目录
     + 输入`cd dyna-react-ui`  
-    + 输入`ln`  
-    + 输入`ln -s ~/githome/cms-project-config/public public`  li
+    + 输入`ln`联接文件  
+    + 输入`ln -s ~/githome/cms-project-config/public public`联接文件public
