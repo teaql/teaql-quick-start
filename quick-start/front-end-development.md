@@ -63,4 +63,4 @@
     + 输入`cd ..`
     + 输入`cd dyna-react-ui`  
     + 输入`ln`  
-    + 输入`git checkout saas`  
+    + 输入`ln -s ~/githome/cms-project-config/public public`  li
