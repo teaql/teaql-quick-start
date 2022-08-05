@@ -5,7 +5,7 @@ If you want to count all the peaple in this community, or the population of a fa
 Follow these steps. 
 
 1. Write a function in IntelliJ IDEA like this.  
-     Multiple choice(e.g. I want to see all households, That is *fromtop to bottom*). write a function in IntelliJ IDEA like this.  
+     Multiple choice(e.g. I want to see all households, That is *from top to the bottom*). write a function in IntelliJ IDEA like this.  
 
 
 
@@ -30,7 +30,7 @@ Follow these steps.
     
 Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.  
     
-    <img src="images/stats-1.png" width="900" height="900">
+   <img src="images/stats-1.png" width="900" height="900">
     
 When you finish this step. 
 + press **Command** + **S** for saving it. 
