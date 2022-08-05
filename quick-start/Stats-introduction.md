@@ -8,7 +8,7 @@ Follow these steps.
      Multiple choice(e.g. I want to see all households, That is *top to bottom*). write a function in IntelliJ IDEA like this.  
 
 ```
-  public WebResponse statsCommunity(ModelUserContext userContext){
+public WebResponse statsCommunity(ModelUserContext userContext){
 
 
         SmartList<Community> communityList =
@@ -25,8 +25,7 @@ Follow these steps.
         return WebResponse.fromSmartList(communityList);
 
     } 
- 
-```      
+ ```      
 Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.   
     <img src="images/stats-1.png" width="900" height="900">
     
