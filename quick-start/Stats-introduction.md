@@ -7,6 +7,6 @@ If you want to count all the peaple in this community, or the population of a fa
     You can check the number of kids, hobby, and house per family etc. 
     ![](imaegs/stats-1.png)
     
-    When you  finish this step, 
+    When you  finish this step, press **Command** + **S** for saving it. 
 
 2. 
