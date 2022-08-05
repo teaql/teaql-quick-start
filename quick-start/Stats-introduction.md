@@ -26,7 +26,7 @@ If you want to count all the peaple in this community, or the population of a fa
 >    } 
 >   
       
-the code in Intelli JIDEA. 
+Entering the above code into IntelliJ  
     ![](images/stats-1.png)
     
 When you finish this step. 
