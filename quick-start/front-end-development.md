@@ -71,10 +71,10 @@
 # 统一两个前端分支 #
 
  1. 在VScode里打开本地的文件
-    ![](images/front-end-3.png) 
+    ![](images/front-end-1.png) 
      
  2. 在IntelliJ IDEA打开相同的文件cms-project-config  
-     ![](images/front-end-3.png)
+     ![](images/front-end-2.png)
  
 
 特别说明：  
@@ -89,4 +89,12 @@
 1. 在G-gas网页上，将鼠标光标放在“产品周转率”上，会自动显示名字
     ![](images/front-end-3.png)
 
-2. 
+2. 再到IntelliJ IDEA里在public目录中打开dyna_app.js dyna-react-ui或者直接搜索（如下图所示）  
+    ![](images/front-end-4.png)
+    
+3. 在dyna_app.js dyna-react-ui文件里找到“产品周转率”，得知其所在目录09,以及文件名pproduct_turnover.json  
+    ![](images/front-end-5.png)
+ 
+4. 在IntelliJ IDEA里打开这个文件，然后粘贴所有的内容  
+    ![](images/front-end-6.png)
+    
