@@ -73,7 +73,7 @@ Then enter Postman to check the infomation.
     ![](images/stats-3.png)
     
     
-<img src="images/stats-3.png" width="1000" height="1000">
+<img src="images/stats-3.png" width="100" height="100">
     
     
 
