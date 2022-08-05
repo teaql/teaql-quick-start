@@ -5,7 +5,7 @@ If you want to count all the peaple in this community, or the population of a fa
 Follow these steps. 
 
 1. Write a function in IntelliJ IDEA like this.  
-     Multiple choice(e.g. I want to see all households, That is *top to bottom*). write a function in IntelliJ IDEA like this.  
+     Multiple choice(e.g. I want to see all households, That is *fromtop to bottom*). write a function in IntelliJ IDEA like this.  
 
 
 
@@ -47,7 +47,7 @@ When you finish this step.
 
 ### ONLY LOCAL INFOMATION ###
     
-If you only aim to count the number of kids, You can input the following code. 
+If you only aim to count the number of kids, you can input the following code. That is *from the bottom to the top*
 
    
     
