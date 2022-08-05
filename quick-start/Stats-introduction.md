@@ -36,7 +36,9 @@ When you finish this step.
 
 
     
-2. Copy the URL, visit the site in Postman. you can scan the content successfully. 
+2. Copy the URL, visit the site in Postman. you can scan the content successfully.  
+    
+
     <img src="images/stats-2.png" width="900" height="900">
 
 
