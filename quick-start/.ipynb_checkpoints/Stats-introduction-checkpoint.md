@@ -4,13 +4,40 @@
 If you want to count all the peaple in this community, or the population of a family, you can use IntelliJ IDEA and Postman to complete it. Follow these steps. 
 
 1. Write a function in IntelliJ IDEA like this.  
-    You can check the number of kids, hobby, and house per family etc. 
-    ![](images/stats-1.png)  
-    
-     When you  finish this step. 
-    + press **Command** + **S** for saving it. 
-    + input `gradle classes`, and press **return**. 
+     Multiple choice(e.g. I want to see all households, That is *top to bottom*). write a function in IntelliJ IDEA like this.  
 
+
+>    public WebResponse statsCommunity(ModelUserContext userContext){
+>
+>
+>        SmartList<Community> communityList =
+>                Q.community()
+>                       .countFamily("fc")
+>
+>                        .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
+                        .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())
+>                        .statsFromFamily("houseCount",Q.house().count().upToFamily())
+>                        .statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())
+>                        .statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())
+>                        .selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
+>                                .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
+>                        .executeForList(userContext);
+>
+>
+>
+>        return WebResponse.fromSmartList(communityList);
+>
+>    } 
+>   
+      
+      
+    
+When you  finish this step. 
++ press **Command** + **S** for saving it. 
++ input `gradle classes`, and press **return**. 
+
+
+    
 2. Copy the URL, visit the site in Postman. you can scan the content successfully. 
     ![](images/stats-2.png)
 
@@ -18,9 +45,9 @@ If you want to count all the peaple in this community, or the population of a fa
 
 
 
-### ANOTHER EXANMPLE ###
+###  ###
 
-
+If you only aim to count the number of kids, You can input the following code. 
 
 > public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
 >
@@ -33,3 +60,9 @@ If you want to count all the peaple in this community, or the population of a fa
 >        return WebResponse.fromSmartList(familyList);
 >
 >    }
+    
+    
+
+
+    
+    

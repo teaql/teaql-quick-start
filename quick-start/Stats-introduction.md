@@ -47,7 +47,7 @@ When you  finish this step.
 
 ###  ###
 
-If you only aim to count the number of kids, 
+If you only aim to count the number of kids, You can input the following code. 
 
 > public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
 >
