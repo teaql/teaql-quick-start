@@ -13,20 +13,21 @@ Follow these steps.
 >    
 >    
 >        SmartList<Community> communityList =
-                Q.community()
-                       .countFamily("fc")
+>                Q.community()
+>                       .countFamily("fc")
+>    
+>                        .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
+>                        .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())                      >.statsFromFamily("houseCount",Q.house().count().upToFamily())   >.statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())                       >.statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())                       >.selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
+>                               .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
+>                        .executeForList(userContext);
+>
+>
+>
+>        return WebResponse.fromSmartList(communityList);
+>
+>   }      
+
     
-                        .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
-                        .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())                      .statsFromFamily("houseCount",Q.house().count().upToFamily())   .statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())                       .statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())                       .selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
-                                .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
-                        .executeForList(userContext);
-
-
-
-        return WebResponse.fromSmartList(communityList);
-
-    }      
-
 Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.   
     <img src="images/stats-1.png" width="900" height="900">
     
