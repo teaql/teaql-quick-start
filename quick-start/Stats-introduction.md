@@ -60,8 +60,11 @@ If you only aim to count the number of kids, You can input the following code.
 >
 >    }
     
-   
+
     
+Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA. 
+    
+
 When you finish this step. 
 + press **Command** + **S** for saving it. 
 + input `gradle classes`, and press **return**. 
