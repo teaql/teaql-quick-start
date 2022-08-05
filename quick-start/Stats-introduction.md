@@ -13,14 +13,14 @@ If you want to count all the peaple in this community, or the population of a fa
 >        SmartList<Community> communityList =
 >                Q.community()
 >                       .countFamily("fc")
-
-                        .statsFromFamily("kidsCount",Q.kid().count().upToFamily())
->                        >.statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())
->                        >.statsFromFamily("houseCount",Q.house().count().upToFamily())
->                        >.statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())
+>
+>                        .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
+                        .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())
+>                        .statsFromFamily("houseCount",Q.house().count().upToFamily())
+>                        .statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())
 >                        .statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())
->                        >.selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
->                                >.selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
+>                        .selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
+>                                .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
 >                        .executeForList(userContext);
 >
 >
