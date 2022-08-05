@@ -12,4 +12,4 @@ If you want to count all the peaple in this community, or the population of a fa
     + input `gradle classes`, and press **return**. 
 
 2. Copy the URL, visit the site in Postman. 
-    
+    ![](images/stats-2.png)
