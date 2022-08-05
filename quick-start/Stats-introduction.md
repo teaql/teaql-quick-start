@@ -42,9 +42,11 @@ When you finish this step.
 
 
 ### ONLY LOCAL INFOMATION ###
-
+    
 If you only aim to count the number of kids, You can input the following code. 
 
+   
+    
 > public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
 >
 >
@@ -57,9 +59,8 @@ If you only aim to count the number of kids, You can input the following code.
 >
 >    }
     
-
+   
     
-
 When you finish this step. 
 + press **Command** + **S** for saving it. 
 + input `gradle classes`, and press **return**. 
