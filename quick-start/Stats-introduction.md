@@ -77,4 +77,3 @@ Then enter Postman to check the infomation.
 <img src="images/stats-3.png" width="900" height="900">
     
     
-:small_orange_diamond:
