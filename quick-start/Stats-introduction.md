@@ -28,7 +28,8 @@ Follow these steps.
 >   }      
 
     
-Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.   
+Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.  
+    
     <img src="images/stats-1.png" width="900" height="900">
     
 When you finish this step. 
