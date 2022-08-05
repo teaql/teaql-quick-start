@@ -11,5 +11,5 @@ If you want to count all the peaple in this community, or the population of a fa
     + press **Command** + **S** for saving it. 
     + input `gradle classes`, and press **return**. 
 
-2. Copy the URL, visit the site in Postman. 
+2. Copy the URL, visit the site in Postman. you can 
     ![](images/stats-2.png)
