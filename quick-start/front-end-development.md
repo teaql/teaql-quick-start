@@ -71,4 +71,11 @@
 # 统一两个前端分支 #
 
  1. 在VScode里打开本地的文件
- 
+ 2. 在IntelliJ IDEA打开相同的文件cms-project-config
+
+特别说明：  
++ VScode对应SaaS分支： 
+    http://127.0.0.1:8000/
+
++ IntelliJ IDEA对应ggas分支： 
+    https://cmstest.ggas.com/#
