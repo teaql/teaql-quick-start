@@ -80,14 +80,3 @@ Then enter Postman to check the infomation.
     
 <font color="red">This text is red!</font>
     
-    
-    
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
-    
-    
-    H~2~O
-    H<sub>2</sub>O
