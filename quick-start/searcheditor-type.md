@@ -20,31 +20,3 @@
               "component": "objectpicker",
               "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/"
             }, 
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
-
-1. **"actionsrender"**  
-![](images/actionsrender.png)
