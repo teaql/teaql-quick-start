@@ -164,4 +164,4 @@
 
 
 
-[^bignote]: Here's one with multiple paragraphs and code.
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
