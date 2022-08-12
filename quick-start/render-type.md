@@ -17,4 +17,15 @@
 
 8. "yearmonthrender".  
 
-9. "BooleanRendererCheckbox"
+9. "BooleanRendererCheckbox".  
+
+10.  {
+                "component": "JumpToSubList",
+                "target": "product-stats",
+                "presetSearchData": {
+                  "location": {
+                    "id": "${id}"
+                  }
+                  
+
+11. "cylindermore link"                   
