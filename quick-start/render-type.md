@@ -32,4 +32,6 @@
 
 12. "NumberRenderer".  
 
-13. 
+13. "ScanCountRenderer".  
+
+14. "analysisitemlist"
