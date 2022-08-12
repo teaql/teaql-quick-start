@@ -25,7 +25,18 @@
 
 3. **"datetimerender"**  
 ```json
-
+{
+     "title": "更新于",
+     "key": "last_update_time",
+     "editor": "datepicker",
+     "searcheditor": "daterangepicker",
+     "searchgroup": "*",
+     "dataIndex": "lastUpdateTime",
+     "required": true,
+     "disableEdit": true,
+                        "span": 2,
+                        "render": "datetimerender"
+},
 ```
 
 
@@ -78,29 +89,65 @@
                     "id": "${id}"
                   }
 
+```json
+
+```
+
                   
 
 11. **"cylindermorelink"** 
+```json
+
+```
+
 
 12. **"NumberRenderer"**  
+```json
+
+```
+
 
 
 13. **"ScanCountRenderer"**  
+```json
+
+```
+
 
 
 14. **"analysisitemlist"**  
+```json
+
+```
+
 
 
 15. **"CustomOrderSummary".**  
+```json
+
+```
+
 
 
 
 16. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+```json
+
+```
+
 
 
 17. **"safetyreport"**  
+```json
+
+```
+
 
 
 18. **"checkitemlist"**  
+```json
+
+```
+
 
 
