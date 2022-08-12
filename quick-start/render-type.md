@@ -223,21 +223,48 @@
 
 16. **"StatusRenderer"**
 ```json
-
+ {
+            "title": "运单状态",
+            "render":{"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+            "key": "trip_status",
+            "editor": "objectpicker",
+            "searcheditor": "objectpicker",
+            "searchgroup": "*",
+            "dataIndex": "tripStatus",
+            "required": true,
+            "candidateOptionURL": "merchantManager/searchTripStatus/",
+            "span": 1
+          },
 ```
 
 
 
 17. **"safetyreport"**  
 ```json
-
+{
+            "title": "超期未检数",
+            "key": "_expireCount",
+            "dataIndex": "_expireCount",
+            "defaultValue": 0,
+            "span": 3,
+            "render": "safetyreport",
+            "styleMode": "right"
+          },
 ```
 
 
 
 18. **"checkitemlist"**  
 ```json
-
+ {
+            "title": "检查项目",
+            "key": "checkItemList",
+            "render": "checkitemlist",
+            "editor": "checkitemlisteditor",
+            "dataIndex": "checkItemList",
+            "required": true,
+            "span": 3
+          },
 ```
 
 
