@@ -109,13 +109,31 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. ***"searchablepicker"***  
 ```json
-
+{
+            "title": "工厂",
+            "key": "merchant",
+            "searcheditor": {
+              "component": "searchablepicker",
+              "candidateOptionURL": "merchantManager/searchMerchant/"
+            },
+            "searchOptions": [
+              {
+                "title": "名称",
+                "id": "name"
+              }
+            ],
+            "searchgroup": "*",
+            "dataIndex": "merchant",
+            "required": true,
+            "candidateOptionURL": "merchantManager/searchMerchant/",
+            "span": 2
+          },
 ```
 
 
-1. **"searchablepicker"**  
+1. **"ObjectSearcher"**  
 ```json
 
 ```
