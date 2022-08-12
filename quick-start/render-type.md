@@ -83,28 +83,48 @@
             "defaultValue": "",
             "render": "assetactionlog",
             "required": true
-          },
+},
 ```
 
 
 
 7. **"productgroup"**  
 ```json
-
+ {
+            "title": "充装产品组",
+            "key": "stationProductGroupList",
+            "dataIndex": "stationProductGroupList",
+            "render": "productgroup",
+            "editor": "productgroupeditor"
+          },
 ```
 
 
 
 8. **"yearmonthrender"** 
 ```json
-
+{
+            "title": "下次检验日期",
+            "key": "nextCheckTime",
+            "dataIndex": "nextCheckTime",
+            "render": "yearmonthrender",
+            "span": 3
+},
 ```
 
 
 
 9. **"BooleanRendererCheckbox"**  
 ```json
-
+ {
+            "title": "氧化性",
+            "key": "oxidizability",
+            "editor": "booleaneditor",
+            "render": "BooleanRendererCheckbox",
+            "dataIndex": "oxidizability",
+            "required": true,
+            "span": 2
+},
 ```
 
 
