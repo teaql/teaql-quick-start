@@ -165,34 +165,63 @@
 
 12. **"NumberRenderer"**  
 ```json
-
+ {
+            "title": "月度数据","render":"NumberRenderer",
+            "multipleField": true,
+            "prefix": "_TURNOVER:",
+            "span": 3
+ }
 ```
 
 
 
 13. **"ScanCountRenderer"**  
 ```json
-
+{
+            "title": "扫描数","render":"ScanCountRenderer",
+            "key": "scan_count",
+            "editor": "numbereditor",
+            "dataIndex": "scanCount",
+            "required": true,
+            "span": 2
+},
 ```
 
 
 
 14. **"analysisitemlist"**  
 ```json
-
+{
+            "title": "分析项",
+            "key": "analysisItemList",
+            "render": "analysisitemlist",
+            "editor": "analysisitemlisteditor",
+            "dataIndex": "analysisItemList",
+            "required": true,
+            "span": 3
+},
 ```
 
 
 
 15. **"CustomOrderSummary".**  
 ```json
-
+{
+            "title": "订单编号",
+            "key": "externalId",
+            "disableEdit": true,
+            "editor": "defaulteditor",
+            "searcheditor": "defaulteditor",
+            "dataIndex": "externalId",
+            "render": "CustomOrderSummary",
+            "span": 2
+          },
 ```
 
 
 
 
-16. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+16. **"StatusRenderer"**
 ```json
 
 ```
