@@ -42,4 +42,9 @@
 
 17. "CustomOrderSummary".  
 
-18. 
+18. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+
+
+19. "safetyreport".  
+
+20. 
