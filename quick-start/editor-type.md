@@ -73,15 +73,31 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. **"datepicker"**  
 ```json
-
+ {
+            "title": "日期",
+            "key": "datavalue",
+            "dataIndex": "datavalue",
+            "span": "2",
+            "searcheditor": "daterangepicker",
+            "editor": "datepicker",
+            "required": true,
+            "searchgroup": "*"
+ },
 ```
 
 
-1. **"searchablepicker"**  
+1. **"booleaneditor"**  
 ```json
-
+{
+            "title": "布尔",
+            "key": "check",
+            "dataIndex": "check",
+            "span": "2",
+            "required": true,
+            "editor": "booleaneditor"
+},
 ```
 
 
