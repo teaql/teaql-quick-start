@@ -12,7 +12,7 @@
 
 
 
-1. **"defaulteditor"**  
+2. **"defaulteditor"**  
 ```json
 {
             "title": "名称",
@@ -24,7 +24,7 @@
 ```
 
 
-1. **"objectpicker"**  
+3. **"objectpicker"**  
 ```json
 {
             "title": "产品",
@@ -49,7 +49,7 @@
 ```
 
 
-1. **"numbereditor"**  
+4. **"numbereditor"**  
 ```json
 {
             "title": "数量",
@@ -61,7 +61,7 @@
 ```
 
 
-1. **"DefaultCalcEditor"**  
+5. **"DefaultCalcEditor"**  
 ```json
 {
             "title": "金额",
@@ -73,7 +73,7 @@
 ```
 
 
-1. **"datepicker"**  
+6. **"datepicker"**  
 ```json
  {
             "title": "日期",
@@ -88,7 +88,7 @@
 ```
 
 
-1. **"booleaneditor"**  
+7. **"booleaneditor"**  
 ```json
 {
             "title": "布尔",
