@@ -120,7 +120,28 @@
 
 1. **"searchablepicker"**  
 ```json
-
+{
+            "title": "充装介质",
+            "key": "filling_medium",
+            "editor": {
+              "component": "searchablepicker",
+              "candidateOptionURL": "merchantManager/searchFillMedium/"
+            },
+            "searcheditor": {
+              "component": "objectpicker",
+              "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/"
+            },
+            "searchOptions": [
+              {
+                "title": "名称",
+                "id": "name"
+              }
+            ],
+            "searchgroup": "*",
+            "dataIndex": "fillingMedium",
+            "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/",
+            "span": 2
+          },
 ```
 
 
