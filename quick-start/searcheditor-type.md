@@ -88,7 +88,7 @@
 
 
 
-6. [^2]The advance form: ***"objectpicker"***
+[^2]:The advance form: ***"objectpicker"***
 ```json
  {
             "title": "充装介质",
@@ -164,3 +164,4 @@
 
 
 
+[^bignote]: Here's one with multiple paragraphs and code.
