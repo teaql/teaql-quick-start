@@ -17,4 +17,4 @@
 
 8. "yearmonthrender".  
 
-9. "BooleanRenderChecbox"
+9. "BooleanRenderCheckbox"
