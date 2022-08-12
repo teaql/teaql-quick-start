@@ -54,12 +54,11 @@
 
 16. "ScanCountRenderer".  
 
-17. "CustomOrderSummary".  
 
-18. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+17. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
 
 
-19. "safetyreport".  
+18. "safetyreport".  
 
-20. "checkitemlist".  
+19. "checkitemlist".  
 
