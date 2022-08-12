@@ -2,9 +2,10 @@
 ## render type #
 
 1. "actionsrender".  
-![]()
+![](images/actionsrender.png)
 
 2. "actionlist".  
+![](im)
 
 3. "datetimerender".  
 
