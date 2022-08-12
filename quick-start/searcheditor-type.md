@@ -4,10 +4,10 @@
 1. **"objectpicker"**  
 ![](images/actionsrender.png)
 
-1. **"actionsrender"**  
+1. **"daterangepicker"**  
 ![](images/actionsrender.png)
 
-1. **"actionsrender"**  
+1. **"defaulteditor"**  
 ![](images/actionsrender.png)
 
 1. **"actionsrender"**  
