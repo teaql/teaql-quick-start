@@ -148,10 +148,33 @@
 ```
 
 
+1. **"PopupCheckbox"**  
+```json
+{
+            "title": "销售组织",
+            "key": "sellMerchant",
+            "dataIndex": "sellMerchant",
+            "searcheditor": "PopupCheckbox",
+            "required": true,
+            "candidateOptionURL": "merchantManager/searchSellMerchantHasCustomOrder/",
+            "span": 3,
+            "hideInForm": true
+},
+```
+
 1. **"searchablepicker"**  
 ```json
 
 ```
+
+
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
 
 1. **"searchablepicker"**  
 ```json
