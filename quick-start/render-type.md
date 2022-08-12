@@ -15,11 +15,11 @@
 2. **"actionlist"**  
 ```json
 {
-                "title": "操作",
-                "key": "actions",
-                "dataIndex": "actionList",
-                "span": 0,
-                "render": "actionlist"
+          "title": "操作",
+          "key": "actions",
+          "dataIndex": "actionList",
+          "span": 0,
+          "render": "actionlist"
 }
 ```
 
@@ -34,28 +34,56 @@
      "dataIndex": "lastUpdateTime",
      "required": true,
      "disableEdit": true,
-                        "span": 2,
-                        "render": "datetimerender"
+     "span": 2,
+     "render": "datetimerender"
 },
 ```
 
 
 4. **"role"** 
 ```json
-
+{
+            "title": "角色",
+            "key": "job_type",
+            "editor": "roleeditor",
+            "render": "role",
+            "dataIndex": "jobList",
+            "required": true,
+            "span": 3
+          },
 ```
 
 
 
 5. 
 ```json
-
+{
+            "title": "消息",
+            "key": "message",
+            "editor": "defaulteditor",
+            "dataIndex": "message",
+            "render": {
+              "component": "JsonRenderer",
+              "format": "订单号: ${externalOrderId}",
+              "titleFormat": "行程代码${trip}/${externalOrderId}"
+            },
+            "required": true,
+            "span": 3
+          },
 ```
 
 
 6. **"assetactionlog"**  
 ```json
-
+{
+            "title": "条码",
+            "key": "asset",
+            "dataIndex": "asset.barcode",
+            "span": "2",
+            "defaultValue": "",
+            "render": "assetactionlog",
+            "required": true
+          },
 ```
 
 
