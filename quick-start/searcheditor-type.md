@@ -1,7 +1,7 @@
 
 ## searcheditor type #
 
-1. **"actionsrender"**  
+1. **"objectpicker"**  
 ![](images/actionsrender.png)
 
 1. **"actionsrender"**  
