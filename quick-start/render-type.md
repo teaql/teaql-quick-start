@@ -16,16 +16,16 @@
 5. {"component":"JsonRenderer","format":"订单号: ${externalOrderId}","titleFormat":"行程代码${trip}/${externalOrderId}"},  
 ![](images/special-JsonRender.png)
 
-6. **"assetactionlog".  
+6. **"assetactionlog"**  
 ![](images/assetactionlog.png)
 
-7. "productgroup".  
+7. **"productgroup"**  
 ![](images/productgroup.png)
 
-8. "yearmonthrender". 
+8. **"yearmonthrender"** 
 ![](images/productgroup.png)
 
-9. "BooleanRendererCheckbox".  
+9. **"BooleanRendererCheckbox"**  
 ![](images/BooleanRendererCheckbox.png)
 
 10.  {
@@ -38,28 +38,28 @@
 ![](images/special-JumpToSubList.png)
                   
 
-11. "cylindermorelink". 
+11. **"cylindermorelink"** 
 ![](images/cylindermorelink.png)
 
-12. "NumberRenderer".  
+12. **"NumberRenderer"**  
 ![](images/NumberRenderer.png)
 
-13. "ScanCountRenderer".  
+13. **"ScanCountRenderer"**  
 ![](images/ScanCountRenderer.png)
 
-14. "analysisitemlist".  
+14. **"analysisitemlist"**  
 ![](images/analysisitemlist.png)
 
-15. "CustomOrderSummary".  
+15. **"CustomOrderSummary".**  
 ![](images/CustomOrderSummary.png)
 
 
 16. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
 ![](images/special-StatusRenderer.png)
 
-17. "safetyreport".  
+17. **"safetyreport"**  
 ![](images/safetyreport.png)
 
-18. "checkitemlist".  
+18. **"checkitemlist"**  
 ![](images/checkitemlist.png)
 
