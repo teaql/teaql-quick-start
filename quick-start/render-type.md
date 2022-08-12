@@ -2,9 +2,14 @@
 ## render type #
 
 1. **"actionsrender"**  
-```json
+```
 
-
+{
+            "title": "操作",
+            "key": "name",
+            "dataIndex": "actions",
+            "render": "actionsrender"
+          }
 
 
 
