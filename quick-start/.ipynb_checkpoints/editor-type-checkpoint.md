@@ -12,7 +12,7 @@
 
 
 
-1. **"defaulteditor"**  
+2. **"defaulteditor"**  
 ```json
 {
             "title": "名称",
@@ -24,7 +24,7 @@
 ```
 
 
-1. **"objectpicker"**  
+3. **"objectpicker"**  
 ```json
 {
             "title": "产品",
@@ -49,7 +49,7 @@
 ```
 
 
-1. **"numbereditor"**  
+4. **"numbereditor"**  
 ```json
 {
             "title": "数量",
@@ -61,7 +61,7 @@
 ```
 
 
-1. **"DefaultCalcEditor"**  
+5. **"DefaultCalcEditor"**  
 ```json
 {
             "title": "金额",
@@ -73,7 +73,7 @@
 ```
 
 
-1. **"datepicker"**  
+6. **"datepicker"**  
 ```json
  {
             "title": "日期",
@@ -88,7 +88,7 @@
 ```
 
 
-1. **"booleaneditor"**  
+7. **"booleaneditor"**  
 ```json
 {
             "title": "布尔",
@@ -101,7 +101,7 @@
 ```
 
 
-1. **"objectpickersimple"**  
+8. **"objectpickersimple"**  
 ```json
 {
             "title": "充装模式",
@@ -118,7 +118,7 @@
 ```
 
 
-1. ***"searchablepicker"***  
+9. ***"searchablepicker"***  
 ```json
 {
             "title": "充装介质",
@@ -145,7 +145,7 @@
 ```
 
 
-1. **"searchablepicker"**  
+10. **"searchablepicker"**  
 ```json
 {
             "title": "保管单位",
@@ -167,7 +167,7 @@
 ```
 
 
-1. **"objectpicker2"**  
+11. **"objectpicker2"**  
 ```json
 {
             "title": "资产所有者",
@@ -184,7 +184,7 @@
 ```
 
 
-1. **"productgroupeditor"**  
+12. **"productgroupeditor"**  
 ```json
 {
             "title": "充装产品组",
@@ -196,7 +196,7 @@
 ```
 
 
-1. **"DropOffTask"**  
+13. **"DropOffTask"**  
 ```json
 {
             "title": "配送结果",
@@ -208,7 +208,7 @@
 ```
 
 
-1. **"checkitemlisteditor"**  
+14. **"checkitemlisteditor"**  
 ```json
  {
             "title": "检查项目",

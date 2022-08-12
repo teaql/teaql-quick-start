@@ -17,7 +17,7 @@
 
 
 
-1. **"daterangepicker"**  
+2. **"daterangepicker"**  
 ```json
  {
             "title": "上次检验日期",
@@ -33,7 +33,7 @@
 
 
 
-1. **"defaulteditor"**  
+3. **"defaulteditor"**  
 ```json
 {
             "title": "序列/钢印号",
@@ -48,7 +48,7 @@
 
 
 
-1. **"objectpickersimple"**  
+4. **"objectpickersimple"**  
 ```json
  {
             "title": "资产类别",
@@ -65,7 +65,7 @@
 
 
 
-1. **"searchablepicker"**  
+5. **"searchablepicker"**  
 ```json
  {
             "title": "保管单位",
@@ -88,7 +88,7 @@
 
 
 
-1. ***"objectpicker"***  
+6. ***"objectpicker"***  
 ```json
  {
             "title": "充装介质",
@@ -109,7 +109,7 @@
 ```
 
 
-1. ***"searchablepicker"***  
+7. ***"searchablepicker"***  
 ```json
 {
             "title": "工厂",
@@ -133,7 +133,7 @@
 ```
 
 
-1. **"ObjectSearcher"**  
+8. **"ObjectSearcher"**  
 ```json
 {
             "title": "客户名称",
@@ -148,7 +148,7 @@
 ```
 
 
-1. **"PopupCheckbox"**  
+9. **"PopupCheckbox"**  
 ```json
 {
             "title": "销售组织",
