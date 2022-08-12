@@ -1,7 +1,7 @@
 
 ## searcheditor type #
 
-1. **"objectpicker"**  
+1. **"objectpicker"**[^1]  
 ```json
  {
             "title": "气瓶品种",
@@ -88,7 +88,7 @@
 
 
 
-6. ***"objectpicker"***  
+6. ***"objectpicker"*** [^2] 
 ```json
  {
             "title": "充装介质",
