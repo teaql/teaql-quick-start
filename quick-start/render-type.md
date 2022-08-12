@@ -24,22 +24,50 @@
 ```
 
 3. **"datetimerender"**  
+```json
+
+```
 
 
 4. **"role"** 
+```json
+
+```
+
 
 
 5. 
+```json
+
+```
+
+
 6. **"assetactionlog"**  
+```json
+
+```
+
 
 
 7. **"productgroup"**  
+```json
+
+```
+
 
 
 8. **"yearmonthrender"** 
+```json
+
+```
+
 
 
 9. **"BooleanRendererCheckbox"**  
+```json
+
+```
+
 
 
 10.  {
@@ -60,18 +88,19 @@
 13. **"ScanCountRenderer"**  
 
 
+14. **"analysisitemlist"**  
 
 
 15. **"CustomOrderSummary".**  
-![](images/CustomOrderSummary.png)
+
 
 
 16. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
-![](images/special-StatusRenderer.png)
+
 
 17. **"safetyreport"**  
-![](images/safetyreport.png)
+
 
 18. **"checkitemlist"**  
-![](images/checkitemlist.png)
+
 
