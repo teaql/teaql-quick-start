@@ -5,11 +5,13 @@
 ![](images/actionsrender.png)
 
 2. "actionlist".  
-![](im)
+![](images/actionlist.png)
 
 3. "datetimerender".  
+![](images/datetimerender.png)
 
 4. "role".  
+![](images/role.png)
 
 5. {"component":"JsonRenderer","format":"订单号: ${externalOrderId}","titleFormat":"行程代码${trip}/${externalOrderId}"},  
 
