@@ -1,10 +1,12 @@
 
 ## render type #
 
-1. actionsrender  
+1. actionsrender.  
 
-2. actionlist  
+2. actionlist.  
 
-3. datetime
+3. datetimerender.  
 
-4. 
+4. role.  
+
+5. 
