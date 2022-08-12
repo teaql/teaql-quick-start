@@ -16,7 +16,10 @@
 1. **"searchablepicker"**  
 ![](images/actionsrender.png)
 
-1. **"actionsrender"**  
+1.  {
+              "component": "objectpicker",
+              "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/"
+            }, 
 ![](images/actionsrender.png)
 
 1. **"actionsrender"**  
