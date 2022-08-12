@@ -14,7 +14,7 @@
 ![](images/role.png)
 
 5. {"component":"JsonRenderer","format":"订单号: ${externalOrderId}","titleFormat":"行程代码${trip}/${externalOrderId}"},  
-![](images/special-.png)
+![](images/special-JsonRenderer.png)
 
 6. "assetactionlog".  
 
