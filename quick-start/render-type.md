@@ -1,7 +1,7 @@
 
 ## render type #
 
-1. "actionsrender".  
+1. "actionsrender"**  
 ![](images/actionsrender.png)
 
 2. "actionlist".  
@@ -55,9 +55,11 @@
 
 
 16. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
-![](images/CustomOrderSummary.png)
+![](images/special-StatusRenderer.png)
 
 17. "safetyreport".  
+![](images/safetyreport.png)
 
 18. "checkitemlist".  
+![](images/checkitemlist.png)
 
