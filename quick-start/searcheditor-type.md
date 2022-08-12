@@ -36,11 +36,4 @@
 
 
 
-1.  {
-              "component": "objectpicker",
-              "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/"
-            }, 
-```json
-
-```
-
+1. 

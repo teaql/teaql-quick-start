@@ -55,7 +55,7 @@
 
 
 
-5. 
+5. JsonRenderer
 ```json
 {
             "title": "消息",
@@ -129,23 +129,37 @@
 
 
 
-10.  {
-                "component": "JumpToSubList",
-                "target": "product-stats",
-                "presetSearchData": {
-                  "location": {
-                    "id": "${id}"
-                  }
-
+10.**"JumpToSubList"**
 ```json
-
+{
+            "title": "条码",
+            "key": "name",
+            "dataIndex": "container.asset.barcode",
+            "render": {
+              "component": "JumpToSubList",
+              "target": "cylinderList",
+              "presetSearchData": {
+                "asset": {
+                  "id": "${container.asset.id}"
+                }
+              }
+            },
+            "span": 3
+          },
 ```
 
                   
 
 11. **"cylindermorelink"** 
 ```json
-
+ {
+              "title": "空",
+              "key": "_EMPTY",
+              "render": "cylindermorelink",
+              "dataIndex": "_EMPTY",
+              "defaultValue": 0,
+              "styleMode": "right"
+            },
 ```
 
 
