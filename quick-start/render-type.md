@@ -2,7 +2,13 @@
 ## render type #
 
 1. **"actionsrender"**  
-![](images/actionsrender.png)
+```json
+
+
+
+
+
+```
 
 2. **"actionlist"**  
 ![](images/actionlist.png)
