@@ -88,7 +88,7 @@
 
 
 
-6. [^2]The advance form: ***"objectpicker"*** 
+6. [^2]The advance form: ***"objectpicker"***
 ```json
  {
             "title": "充装介质",
