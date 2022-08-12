@@ -1,7 +1,7 @@
 
 ## searcheditor type #
 
-1. [^1]: The best form: **"objectpicker"**  
+1. [^1]:The best form: **"objectpicker"**  
 ```json
  {
             "title": "气瓶品种",
