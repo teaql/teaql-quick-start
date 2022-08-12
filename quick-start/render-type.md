@@ -48,17 +48,16 @@
 ![](images/ScanCountRenderer.png)
 
 14. "analysisitemlist".  
-
+![](images/analysisitemlist.png)
 
 15. "CustomOrderSummary".  
-
-16. "ScanCountRenderer".  
-
-
-17. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+![](images/CustomOrderSummary.png)
 
 
-18. "safetyreport".  
+16. {"component":"StatusRenderer","styleIndex":{"success":["DONE"],"warning":["PLANNED"],"working":["WORKING"]}},
+![](images/CustomOrderSummary.png)
 
-19. "checkitemlist".  
+17. "safetyreport".  
+
+18. "checkitemlist".  
 
