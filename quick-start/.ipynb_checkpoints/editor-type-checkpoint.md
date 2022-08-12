@@ -118,67 +118,107 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. ***"searchablepicker"***  
 ```json
-
+{
+            "title": "充装介质",
+            "key": "filling_medium",
+            "editor": {
+              "component": "searchablepicker",
+              "candidateOptionURL": "merchantManager/searchFillMedium/"
+            },
+            "searcheditor": {
+              "component": "objectpicker",
+              "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/"
+            },
+            "searchOptions": [
+              {
+                "title": "名称",
+                "id": "name"
+              }
+            ],
+            "searchgroup": "*",
+            "dataIndex": "fillingMedium",
+            "candidateOptionURL": "merchantManager/searchFillMediumForMerchant/",
+            "span": 2
+          },
 ```
 
 
 1. **"searchablepicker"**  
 ```json
-
+{
+            "title": "保管单位",
+            "key": "custodian",
+            "editor": "searchablepicker",
+            "searcheditor": "searchablepicker",
+            "searchOptions": [
+              {
+                "title": "保管单位",
+                "id": "name"
+              }
+            ],
+            "candidateOptionURL": "merchantManager/searchMerchant/",
+            "searchgroup": "*",
+            "dataIndex": "custodian",
+            "required": true,
+            "span": 2
+          },
 ```
 
 
-1. **"searchablepicker"**  
+1. **"objectpicker2"**  
 ```json
-
+{
+            "title": "资产所有者",
+            "key": "owner",
+            "dataIndex": "owner",
+            "editor": "objectpicker2",
+            "searcheditor": "objectpicker",
+            "searchgroup": "*",
+            "required": true,
+            "span": 2,
+            "propertyForText": "name",
+            "candidateOptionURL": "merchantManager/searchMerchant/"
+          },
 ```
 
 
-1. **"searchablepicker"**  
+1. **"productgroupeditor"**  
 ```json
-
+{
+            "title": "充装产品组",
+            "key": "stationProductGroupList",
+            "dataIndex": "stationProductGroupList",
+            "render": "productgroup",
+            "editor": "productgroupeditor"
+},
 ```
 
 
-1. **"searchablepicker"**  
+1. **"DropOffTask"**  
 ```json
-
+{
+            "title": "配送结果",
+            "hideLabel": true,
+            "key": "dropOffTaskItemList",
+            "editor": "DropOffTask",
+            "dataIndex": "dropOffTaskItemList"
+},
 ```
 
 
-1. **"searchablepicker"**  
+1. **"checkitemlisteditor"**  
 ```json
-
+ {
+            "title": "检查项目",
+            "key": "checkItemList",
+            "render": "checkitemlist",
+            "editor": "checkitemlisteditor",
+            "dataIndex": "checkItemList",
+            "required": true,
+            "span": 3
+ },
 ```
 
 
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```

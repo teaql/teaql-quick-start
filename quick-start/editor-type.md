@@ -196,43 +196,29 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. **"DropOffTask"**  
 ```json
-
+{
+            "title": "配送结果",
+            "hideLabel": true,
+            "key": "dropOffTaskItemList",
+            "editor": "DropOffTask",
+            "dataIndex": "dropOffTaskItemList"
+},
 ```
 
 
-1. **"searchablepicker"**  
+1. **"checkitemlisteditor"**  
 ```json
-
+ {
+            "title": "检查项目",
+            "key": "checkItemList",
+            "render": "checkitemlist",
+            "editor": "checkitemlisteditor",
+            "dataIndex": "checkItemList",
+            "required": true,
+            "span": 3
+ },
 ```
 
 
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
-
-
-1. **"searchablepicker"**  
-```json
-
-```
