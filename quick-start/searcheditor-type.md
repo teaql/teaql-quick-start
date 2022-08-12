@@ -135,7 +135,16 @@
 
 1. **"ObjectSearcher"**  
 ```json
-
+{
+            "title": "客户名称",
+            "key": "post_location",
+            "editor": "objectpicker",
+            "searcheditor": "ObjectSearcher",
+            "searchgroup": "*",
+            "dataIndex": "postLocation",
+            "candidateOptionURL": "merchantManager/searchLocationAtCustomer/",
+            "span": 2
+},
 ```
 
 
