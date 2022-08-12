@@ -16,7 +16,7 @@
 5. {"component":"JsonRenderer","format":"订单号: ${externalOrderId}","titleFormat":"行程代码${trip}/${externalOrderId}"},  
 ![](images/special-JsonRender.png)
 
-6. "assetactionlog".  
+6. **"assetactionlog".  
 ![](images/assetactionlog.png)
 
 7. "productgroup".  
