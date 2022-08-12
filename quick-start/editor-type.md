@@ -118,7 +118,7 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. ***"searchablepicker"***  
 ```json
 {
             "title": "充装介质",
@@ -147,13 +147,40 @@
 
 1. **"searchablepicker"**  
 ```json
-
+{
+            "title": "保管单位",
+            "key": "custodian",
+            "editor": "searchablepicker",
+            "searcheditor": "searchablepicker",
+            "searchOptions": [
+              {
+                "title": "保管单位",
+                "id": "name"
+              }
+            ],
+            "candidateOptionURL": "merchantManager/searchMerchant/",
+            "searchgroup": "*",
+            "dataIndex": "custodian",
+            "required": true,
+            "span": 2
+          },
 ```
 
 
-1. **"searchablepicker"**  
+1. **"objectpicker2"**  
 ```json
-
+{
+            "title": "资产所有者",
+            "key": "owner",
+            "dataIndex": "owner",
+            "editor": "objectpicker2",
+            "searcheditor": "objectpicker",
+            "searchgroup": "*",
+            "required": true,
+            "span": 2,
+            "propertyForText": "name",
+            "candidateOptionURL": "merchantManager/searchMerchant/"
+          },
 ```
 
 
