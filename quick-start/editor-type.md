@@ -24,21 +24,52 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. **"objectpicker"**  
 ```json
-
+{
+            "title": "产品",
+            "key": "product",
+            "editor": "objectpicker",
+            "searcheditor": "objectpicker",
+            "searchOptions": [
+              {
+                "title": "名称",
+                "id": "name"
+              },
+              {
+                "title": "编码",
+                "id": "code"
+              }
+            ],
+            "candidateOptionURL": "merchantManager/searchProductForMerchant/",
+            "searchgroup": "*",
+            "dataIndex": "product",
+            "span": 2
+          },
 ```
 
 
-1. **"searchablepicker"**  
+1. **"numbereditor"**  
 ```json
-
+{
+            "title": "数量",
+            "key": "count",
+            "editor":"numbereditor",
+            "dataIndex": "count",
+            "span": "2"
+},
 ```
 
 
-1. **"searchablepicker"**  
+1. **"DefaultCalcEditor"**  
 ```json
-
+{
+            "title": "金额",
+            "key": "amount",
+            "editor":"DefaultCalcEditor",
+            "dataIndex": "amount",
+            "span": "2"
+          },
 ```
 
 
