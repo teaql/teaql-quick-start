@@ -101,6 +101,77 @@
 ```
 
 
+1. **"objectpickersimple"**  
+```json
+{
+            "title": "充装模式",
+            "key": "fill_mode",
+            "editor": "objectpickersimple",
+            "searcheditor": "objectpickersimple",
+            "searchgroup": "*",
+            "dataIndex": "fillMode",
+            "required": true,
+            "hideLabel":true,
+            "candidateOptionURL": "merchantManager/searchFillMode/",
+            "span": 2
+}
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
+1. **"searchablepicker"**  
+```json
+
+```
+
+
 1. **"searchablepicker"**  
 ```json
 
