@@ -1,12 +1,14 @@
 
 ## render type #
 
-1. actionsrender.  
+1. "actionsrender".  
 
-2. actionlist.  
+2. "actionlist".  
 
-3. datetimerender.  
+3. "datetimerender".  
 
-4. role.  
+4. "role".  
 
-5. 
+5. {"component":"JsonRenderer","format":"订单号: ${externalOrderId}","titleFormat":"行程代码${trip}/${externalOrderId}"},  
+
+6. assetactionlog
