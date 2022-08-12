@@ -1,16 +1,16 @@
 
 ## render type #
 
-1. "actionsrender"**  
+1. **"actionsrender"**  
 ![](images/actionsrender.png)
 
-2. "actionlist".  
+2. **"actionlist"**  
 ![](images/actionlist.png)
 
-3. "datetimerender".  
+3. **"datetimerender"**  
 ![](images/datetimerender.png)
 
-4. "role".  
+4. **"role"** 
 ![](images/role.png)
 
 5. {"component":"JsonRenderer","format":"订单号: ${externalOrderId}","titleFormat":"行程代码${trip}/${externalOrderId}"},  
