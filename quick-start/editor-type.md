@@ -184,9 +184,15 @@
 ```
 
 
-1. **"searchablepicker"**  
+1. **"productgroupeditor"**  
 ```json
-
+{
+            "title": "充装产品组",
+            "key": "stationProductGroupList",
+            "dataIndex": "stationProductGroupList",
+            "render": "productgroup",
+            "editor": "productgroupeditor"
+},
 ```
 
 
