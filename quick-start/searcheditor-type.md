@@ -3,35 +3,87 @@
 
 1. **"objectpicker"**  
 ```json
-
+ {
+            "title": "气瓶品种",
+            "key": "cylinder_type",
+            "editor": "objectpicker",
+            "searcheditor": "objectpicker",
+            "searchgroup": "*",
+            "dataIndex": "cylinderType",
+            "candidateOptionURL": "merchantManager/searchCylinder/",
+            "span": 2
+},
 ```
 
 
 
 1. **"daterangepicker"**  
 ```json
-
+ {
+            "title": "上次检验日期",
+            "key": "last_check_time",
+            "editor": "datepicker",
+            "searcheditor": "daterangepicker",
+            "searchgroup": "*",
+            "dataIndex": "lastCheckTime",
+            "span": 2,
+            "render": "datetimerender"
+},
 ```
 
 
 
 1. **"defaulteditor"**  
 ```json
-
+{
+            "title": "序列/钢印号",
+            "key": "internal_code",
+            "editor": "defaulteditor",
+            "searcheditor": "defaulteditor",
+            "dataIndex": "internalCode",
+            "required": true,
+            "span": 3
+},
 ```
 
 
 
 1. **"objectpickersimple"**  
 ```json
-
+ {
+            "title": "资产类别",
+            "key": "asset_type",
+            "editor": "objectpicker",
+            "searcheditor": "objectpicker",
+            "searchgroup": "*",
+            "dataIndex": "assetType",
+            "required": true,
+            "candidateOptionURL": "merchantManager/searchAssetType/",
+            "span": 2
+ },
 ```
 
 
 
 1. **"searchablepicker"**  
 ```json
-
+ {
+            "title": "保管单位",
+            "key": "custodian",
+            "editor": "searchablepicker",
+            "searcheditor": "searchablepicker",
+            "searchOptions": [
+              {
+                "title": "保管单位",
+                "id": "name"
+              }
+            ],
+            "searchgroup": "*",
+            "dataIndex": "custodian",
+            "required": true,
+            "candidateOptionURL": "merchantManager/searchMerchant/",
+            "span": 2
+},
 ```
 
 
