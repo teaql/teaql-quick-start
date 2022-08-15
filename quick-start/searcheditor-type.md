@@ -87,7 +87,7 @@
 ```
 
 
-6. ***"objectpicker"***
+6. ***"objectpicker"***[^1]
 ```json
  {
             "title": "充装介质",
