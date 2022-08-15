@@ -66,8 +66,8 @@
 
 
 
-5. **"searchablepicker"**. [^3] 
-[^3]: Best form. 
+5. **"searchablepicker"**. [^1] 
+[^1]: Best form. 
 ```json
  {
             "title": "保管单位",
@@ -89,7 +89,7 @@
 ```
 
 
-6. ***"objectpicker"***[^2]
+6. **"objectpicker"**[^2]
 [^2]: Advance form. 
 ```json
  {
@@ -111,8 +111,8 @@
 ```
 
 
-7. **"searchablepicker"** [^4]
-[^4]: Advance form. 
+7. **"searchablepicker"** [^2]
+[^2]: Advance form. 
 ```json
 {
             "title": "工厂",
