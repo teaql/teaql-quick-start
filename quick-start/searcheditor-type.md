@@ -1,7 +1,7 @@
 
 ## searcheditor type #
 
-1.**"objectpicker"** [^best form] 
+1.**"objectpicker"** [^1] 
 ```json
  {
             "title": "气瓶品种",
@@ -87,7 +87,7 @@
 ```
 
 
-6. ***"objectpicker"***[^advance form]
+6. ***"objectpicker"***[^2]
 ```json
  {
             "title": "充装介质",
