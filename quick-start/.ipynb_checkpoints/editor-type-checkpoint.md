@@ -118,7 +118,8 @@
 ```
 
 
-9. ***"searchablepicker"***  
+9. **"searchablepicker"** [^1]
+[^1]: Advance form. 
 ```json
 {
             "title": "充装介质",
@@ -145,7 +146,8 @@
 ```
 
 
-10. **"searchablepicker"**  
+10. **"searchablepicker"** [^2] 
+[^1]: Best form. 
 ```json
 {
             "title": "保管单位",
