@@ -66,7 +66,8 @@
 
 
 
-5. **"searchablepicker"**.  
+5. **"searchablepicker"**. [^3] 
+[^3]: Best form. 
 ```json
  {
             "title": "保管单位",
@@ -110,7 +111,8 @@
 ```
 
 
-7. ***"searchablepicker"***  
+7. **"searchablepicker"** [^4]
+[^1]: Best fo
 ```json
 {
             "title": "工厂",
