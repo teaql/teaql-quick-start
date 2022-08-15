@@ -2,6 +2,7 @@
 ## searcheditor type #
 
 1.**"objectpicker"** [^1] 
+[^1]: Best form. 
 ```json
  {
             "title": "气瓶品种",
@@ -65,7 +66,7 @@
 
 
 
-5. **"searchablepicker"**  
+5. **"searchablepicker"**.  
 ```json
  {
             "title": "保管单位",
@@ -163,3 +164,9 @@
 
 
 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
