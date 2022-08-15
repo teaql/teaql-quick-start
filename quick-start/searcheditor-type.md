@@ -112,7 +112,7 @@
 
 
 7. **"searchablepicker"** [^4]
-[^1]: Best fo
+[^4]: Advance form. 
 ```json
 {
             "title": "工厂",
