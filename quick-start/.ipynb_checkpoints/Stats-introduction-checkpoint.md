@@ -32,7 +32,7 @@ public WebResponse statsCommunity(ModelUserContext userContext){
     
 Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.  
     
-   <img src="images/stats-1.png" width="900" height="900">
+   <img src="images/stats-1.png" width="900" height="700">
     
 When you finish this step. 
 + press **Command** + **S** for saving it. 
@@ -42,7 +42,7 @@ When you finish this step.
     
 2. Copy the URL, visit the site in Postman. you can scan the content successfully.  
 
-<img src="images/stats-2.png" width="900" height="900">
+<img src="images/stats-2.png" width="900" height="700">
 
 
 
