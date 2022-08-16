@@ -16,7 +16,15 @@ But if not, just follow the regulation below.
 
     eg. Take the scenario mentioned in the first point as an example， you can write the function like this.  
     
-    ![](images/P-1.png)
+```
+ public WebResponse helloMia(ModelUserContext userContext) throws Exception {
+
+        SmartList<Family> familyList = Q.family().filterByName("Mia's Family0001").selectKidList(
+                Q.kidWithIdField().selectName().selectAge().orderByAgeDescending()).executeForList(userContext);
+
+
+        return WebResponse.fromSmartList(familyList);
+    }
     
 
 
