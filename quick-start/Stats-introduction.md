@@ -17,17 +17,15 @@ public WebResponse statsCommunity(ModelUserContext userContext){
                        .countFamily("fc")
     
     .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
-    .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily()) 
-    .statsFromFamily("houseCount",Q.house().count().upToFamily())
+    .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())  
+    .statsFromFamily("houseCount",Q.house().count().upToFamily())  
     .statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())  
     .statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())  
-    .selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
-    .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
+    .selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()  
+    .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))  
                        .executeForList(userContext);
 
-
-
-        return WebResponse.fromSmartList(communityList);
+        return WebResponse.fromSmartList(communityList);  
 
    }      
 ```
