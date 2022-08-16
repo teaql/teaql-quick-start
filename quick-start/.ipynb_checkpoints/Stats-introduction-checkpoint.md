@@ -8,25 +8,25 @@ Follow these steps.
      Multiple choice(e.g. I want to see all households, That is *from top to the bottom*). write a function in IntelliJ IDEA like this.  
 
 
+```
+public WebResponse statsCommunity(ModelUserContext userContext){
+    
+    
+        SmartList<Community> communityList =
+                Q.community()
+                       .countFamily("fc")
+    
+                        .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
+                        .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())                      .statsFromFamily("houseCount",Q.house().count().upToFamily())   .statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())                       .statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())                       .selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
+                               .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
+                        .executeForList(userContext);
 
->public WebResponse statsCommunity(ModelUserContext userContext){
->    
->    
->        SmartList<Community> communityList =
->                Q.community()
->                       .countFamily("fc")
->    
->                        .statsFromFamily("kidsCount",Q.kid()>.count().upToFamily())
->                        .statsFromFamily("hobbyCount",Q.hobby().count().upToKid().upToFamily())                      >.statsFromFamily("houseCount",Q.house().count().upToFamily())   >.statsFromFamily("houseCountPerFamily",Q.house().groupByFamily().count().upToFami>ly())                       >.statsFromFamily("sumAge",Q.kid().sumAge().upToFamily())                       >.selectFamilyList(Q.family().selectKidList(Q.kidWithIdField()
->                               .selectAge()).statsFromKid("sumAgeForTheFamily",Q.kid().sumAge()))
->                        .executeForList(userContext);
->
->
->
->        return WebResponse.fromSmartList(communityList);
->
->   }      
 
+
+        return WebResponse.fromSmartList(communityList);
+
+   }      
+```
     
 Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA.  
     
@@ -47,22 +47,22 @@ When you finish this step.
 
 ### ONLY LOCAL INFOMATION ###
     
-If you only aim to count the number of kids, you can input the following code. That is *from the bottom to the top*
+If you only aim to count the number of kids, you can input the following code. That is called *from the bottom to the top*
 
    
-    
-> public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
->
->
->        SmartList<Family> familyList = Q.kid().count().sumAge().endAtFamily("kidsCount")
+```    
+public WebResponse statsCommunityForKidsOnly(ModelUserContext userContext){
+
+
+        SmartList<Family> familyList = Q.kid().count().sumAge().endAtFamily("kidsCount")
                 .selectName()
                 .executeForList(userContext);
->
->
->        return WebResponse.fromSmartList(familyList);
->
->    }
-    
+
+
+        return WebResponse.fromSmartList(familyList);
+
+    }
+```    
 
     
 Entering the above code into IntelliJ IDEA looks like this. You can copy and paste the above code into IntelliJ IDEA. 
@@ -78,5 +78,5 @@ Then enter Postman to check the infomation.
     
     
     
-<font color="red">This text is red!</font>
+
     
